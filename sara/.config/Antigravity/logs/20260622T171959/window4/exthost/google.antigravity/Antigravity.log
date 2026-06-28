@@ -1,0 +1,5 @@
+2026-06-22 17:20:27.927 [info] I0622 17:20:27.926855  4909 server.go:1236] Starting language server process with pid 4909
+2026-06-22 17:20:27.927 [info] I0622 17:20:27.926996  4909 server.go:301] Setting GOMAXPROCS to 4
+2026-06-22 17:20:27.928 [info] I0622 17:20:27.928283  4909 server.go:440] Language server will attempt to listen on host 127.0.0.1
+2026-06-22 17:20:27.928 [info] I0622 17:20:27.928575  4909 server.go:454] Language server listening on random port at 43127 for HTTPS (gRPC)
+2026-06-22 17:20:27.928 [info] I0622 17:20:27.928621  4909 server.go:461] Language server listening on random port at 46033 for HTTP

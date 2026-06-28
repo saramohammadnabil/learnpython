@@ -1,0 +1,26 @@
+[CLIENT] 0x3e00048
+  [CLIENT_ID] 20445d2e1-d407-4468-a7b5-b6d714dce3ad
+  [CLIENT_LEADER] 0x3e00001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x300
+[CLIENT] 0x3e00003
+  [CLIENT_ID] 20445d2e1-d407-4468-a7b5-b6d714dce3ad
+  [CLIENT_LEADER] 0x3e00001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] (231) TOEFL 2026 Reading Practice 9 — HARD 2nd Module - YouTube — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300

@@ -1,0 +1,47 @@
+2026-06-22 15:13:04.039 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-06-22 15:13:04.039 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-06-22 15:13:04.039 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-06-22 15:13:04.039 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-06-22 15:13:04.990 [info] Using the Electron fetcher.
+2026-06-22 15:13:05.224 [warning] GitHub login failed
+2026-06-22 15:13:05.224 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: false
+2026-06-22 15:13:06.275 [info] ConversationFeature: Waiting for copilot token or BYOK model to activate conversation feature
+2026-06-22 15:13:06.276 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without a Copilot token source
+2026-06-22 15:13:06.276 [info] [CopilotCLIModels] Skipping model fetch since there is no Copilot token source
+2026-06-22 15:13:06.277 [info] BYOK: registered 9 provider(s): ollama, anthropic, gemini, xai, openai, openrouter, azure, customoai, customendpoint
+2026-06-22 15:13:06.277 [info] BYOK: fetching known models list
+2026-06-22 15:13:06.279 [info] activationBlocker from 'languageModelAccess' took for 97ms
+2026-06-22 15:13:07.643 [info] [CopilotCLI] OpenTelemetry enabled: exporter=file, source=github.copilot
+2026-06-22 15:13:07.753 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-06-22 15:13:07.794 [info] [CopilotCLIChatSessionContentProvider] listSessions took 159.7508539999999ms
+2026-06-22 15:13:07.816 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without a Copilot token source
+2026-06-22 15:13:07.842 [info] [CopilotCLI] Cleaned up 1 stale lock file(s).
+2026-06-22 15:13:07.860 [info] [CopilotCLI] MCP server started. Lock file: /home/sara/.copilot/ide/637b92b5-d5bf-412a-9663-f18d9daa1980.lock
+2026-06-22 15:13:07.860 [info] [CopilotCLI] Server URI: unix:/tmp/mcp-9fcb38/mcp.sock#%2Fmcp
+2026-06-22 15:13:07.870 [warning] GitHub login failed
+2026-06-22 15:13:07.873 [info] [context keys] Setting context key: github.copilot.interactiveSession.gitHubLoginFailed
+2026-06-22 15:13:08.003 [info] ConversationFeature: BYOK models available
+2026-06-22 15:13:08.004 [info] ConversationFeature: Activating contributions
+2026-06-22 15:13:08.004 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-06-22 15:13:08.027 [warning] Unable to fetch remote agents because user is not signed in.
+2026-06-22 15:13:08.027 [info] activationBlocker from 'conversationFeature' took for 1870ms
+2026-06-22 15:13:08.170 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without a Copilot token source
+2026-06-22 15:13:08.197 [info] [CopilotCLIChatSessionContentProvider] listSessions took 27.603861000001416ms
+2026-06-22 15:13:08.200 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without a Copilot token source
+2026-06-22 15:13:08.216 [info] [CopilotCLIChatSessionContentProvider] listSessions took 4.320239999999103ms
+2026-06-22 15:13:39.981 [info] Registering default platform agent...
+2026-06-22 15:13:39.992 [info] Logged in as saramohammadnabil
+2026-06-22 15:13:40.524 [info] Got Copilot token for saramohammadnabil
+2026-06-22 15:13:40.524 [info] Copilot Chat: 0.53.1, VS Code: 1.125.1
+2026-06-22 15:13:40.699 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-06-22 15:13:40.699 [info] copilot token sku: free_limited_copilot
+2026-06-22 15:13:40.732 [info] [context keys] Setting context key: github.copilot-chat.activated
+2026-06-22 15:13:41.080 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-06-22 15:13:41.084 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-06-22 15:13:41.090 [error] Failed to create database. Falling back to in-memory db: Error: unable to open database file
+2026-06-22 15:13:41.421 [info] Fetched model metadata in 646ms 07a0a482-a8cc-4155-b253-1e0154ca2644
+2026-06-22 15:13:41.585 [info] Latest entry: ccreq:latest.copilotmd
+2026-06-22 15:13:41.586 [info] ccreq:a2b47228.copilotmd | markdown
+2026-06-22 15:13:41.739 [info] [CopilotCLIChatSessionContentProvider] listSessions took 1.6151439999957802ms
+2026-06-22 15:13:50.235 [info] [CopilotCLIChatSessionContentProvider] listSessions took 2.1675089999989723ms
+2026-06-22 15:14:27.011 [info] [CopilotCLIChatSessionContentProvider] listSessions took 1.6688259999937145ms

@@ -1,0 +1,45 @@
+2026-06-22 14:51:46.867 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-06-22 14:51:46.868 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-06-22 14:51:46.868 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-06-22 14:51:46.868 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-06-22 14:51:46.902 [info] Logged in as saramohammadnabil
+2026-06-22 14:51:46.908 [info] Using the Electron fetcher.
+2026-06-22 14:51:47.389 [info] ConversationFeature: Waiting for copilot token or BYOK model to activate conversation feature
+2026-06-22 14:51:48.338 [info] [CopilotCLI] OpenTelemetry enabled: exporter=file, source=github.copilot
+2026-06-22 14:51:48.526 [info] Got Copilot token for saramohammadnabil
+2026-06-22 14:51:48.526 [info] Copilot Chat: 0.53.1, VS Code: 1.125.1
+2026-06-22 14:51:48.733 [info] [context keys] Setting context key: github.copilot-chat.activated
+2026-06-22 14:51:48.742 [info] activationBlocker from 'languageModelAccess' took for 1419ms
+2026-06-22 14:51:48.819 [info] [CopilotCLIChatSessionContentProvider] listSessions took 509.8757319999859ms
+2026-06-22 14:51:48.865 [info] [CopilotCLI] MCP server started. Lock file: /home/sara/.copilot/ide/2a1f50f8-f719-48c9-9ea9-16ac5caf1d38.lock
+2026-06-22 14:51:48.865 [info] [CopilotCLI] Server URI: unix:/tmp/mcp-HiOCOn/mcp.sock#%2Fmcp
+2026-06-22 14:51:48.953 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-06-22 14:51:48.953 [info] copilot token sku: free_limited_copilot
+2026-06-22 14:51:48.953 [info] ConversationFeature: Activating contributions
+2026-06-22 14:51:48.953 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-06-22 14:51:48.978 [info] Registering default platform agent...
+2026-06-22 14:51:48.997 [info] BYOK: registered 9 provider(s): ollama, anthropic, gemini, xai, openai, openrouter, azure, customoai, customendpoint
+2026-06-22 14:51:48.997 [info] BYOK: fetching known models list
+2026-06-22 14:51:48.997 [info] activationBlocker from 'conversationFeature' took for 1672ms
+2026-06-22 14:51:49.099 [info] [CopilotCLIChatSessionContentProvider] listSessions took 21.601974999997765ms
+2026-06-22 14:51:49.122 [info] [CopilotCLIChatSessionContentProvider] listSessions took 0.8375789999845438ms
+2026-06-22 14:51:49.164 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-06-22 14:51:49.167 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-06-22 14:51:49.178 [error] Failed to create database. Falling back to in-memory db: Error: unable to open database file
+2026-06-22 14:51:49.394 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-06-22 14:51:49.541 [info] Fetched model metadata in 2199ms e8165206-36a8-4329-94c8-d3aee05d8c9a
+2026-06-22 14:51:49.713 [info] Latest entry: ccreq:latest.copilotmd
+2026-06-22 14:51:49.715 [info] ccreq:4c7b3d17.copilotmd | markdown
+2026-06-22 14:51:50.257 [info] ConversationFeature: BYOK models available
+2026-06-22 14:51:50.257 [info] copilot token sku: free_limited_copilot
+2026-06-22 14:52:25.043 [info] [CopilotCLIChatSessionContentProvider] listSessions took 1.7521549999946728ms
+2026-06-22 14:56:37.862 [info] [CopilotCLIChatSessionContentProvider] listSessions took 24.905536000034772ms
+2026-06-22 14:56:48.494 [info] [CopilotCLIChatSessionContentProvider] listSessions took 27.56709799997043ms
+2026-06-22 14:57:39.434 [info] [CopilotCLIChatSessionContentProvider] listSessions took 1.2913649999536574ms
+2026-06-22 14:58:27.794 [info] [CopilotCLIChatSessionContentProvider] listSessions took 27.726823000004515ms
+2026-06-22 14:58:53.155 [info] [CopilotCLIChatSessionContentProvider] listSessions took 1.5974789999891073ms
+2026-06-22 14:59:11.402 [info] [CopilotCLIChatSessionContentProvider] listSessions took 1.969781000050716ms
+2026-06-22 14:59:51.571 [info] [CopilotCLIChatSessionContentProvider] listSessions took 2.6126680000452325ms
+2026-06-22 14:59:55.792 [info] [CopilotCLIChatSessionContentProvider] listSessions took 1.5084800000768155ms
+2026-06-22 15:00:07.717 [info] [CopilotCLIChatSessionContentProvider] listSessions took 1.5345300000626594ms
+2026-06-22 15:00:11.333 [info] [CopilotCLIChatSessionContentProvider] listSessions took 1.3065049999859184ms

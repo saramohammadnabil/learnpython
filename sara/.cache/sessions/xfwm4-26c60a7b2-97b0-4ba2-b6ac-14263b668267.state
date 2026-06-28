@@ -1,0 +1,74 @@
+[CLIENT] 0x3a00003
+  [CLIENT_ID] 26331fc2a-c60e-43e0-9fd8-c545e1298a38
+  [CLIENT_LEADER] 0x3a00001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] (264) TOEFL 2026 Reading Practice 5 - YouTube — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x3a0003b
+  [CLIENT_ID] 26331fc2a-c60e-43e0-9fd8-c545e1298a38
+  [CLIENT_LEADER] 0x3a00001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] (264) Learn Python in Arabic #007 - Variables Part One - YouTube — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (814,478,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x3a0017d
+  [CLIENT_ID] 26331fc2a-c60e-43e0-9fd8-c545e1298a38
+  [CLIENT_LEADER] 0x3a00001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] شرح دورة تعلم اساسيات الكمبيوتر من الصفر - تعليم ويندوز 7 - الحلقة 5 معتمد - منصة معارف — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x4400004
+  [RES_NAME] code
+  [RES_CLASS] code
+  [WM_NAME] tt.py - projects - Visual Studio Code
+  [GEOMETRY] (0,0,1920,1034)
+  [GEOMETRY-MAXIMIZED] (0,0,1922,1036)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x3a0002f
+  [CLIENT_ID] 26331fc2a-c60e-43e0-9fd8-c545e1298a38
+  [CLIENT_LEADER] 0x3a00001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] Introduction in Artificial Intelligence — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (814,478,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x3a000ff
+  [CLIENT_ID] 26331fc2a-c60e-43e0-9fd8-c545e1298a38
+  [CLIENT_LEADER] 0x3a00001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x380

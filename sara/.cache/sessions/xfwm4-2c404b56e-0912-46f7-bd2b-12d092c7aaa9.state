@@ -1,0 +1,26 @@
+[CLIENT] 0x3a0001c
+  [CLIENT_ID] 2a61b7d7a-c239-48dc-94e4-13b1230e7b12
+  [CLIENT_LEADER] 0x3a00001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] شرح دورة تعليم اساسيات الكمبيوتر من الصفر - ويندوز 7 - الحلقة 4 معتمد - منصة معارف — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (2,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x3a00003
+  [CLIENT_ID] 2a61b7d7a-c239-48dc-94e4-13b1230e7b12
+  [CLIENT_LEADER] 0x3a00001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] (244) TOEFL 2026 Reading Practice 6 — HARD 2nd Module - YouTube — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300

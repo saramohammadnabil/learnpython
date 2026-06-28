@@ -1,0 +1,37 @@
+2026-06-22 16:09:50.555 [info] Native locator: Refresh started
+2026-06-22 16:09:50.555 [info] Native locator: Refresh finished in 770 ms
+2026-06-22 16:09:53.192 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-06-22 16:09:53.513 [info] > pyenv which python
+2026-06-22 16:09:53.513 [info] cwd: .
+2026-06-22 16:09:53.515 [info] Python interpreter path: /usr/local/bin/python
+2026-06-22 16:09:58.256 [info] Starting Pylance language server.
+2026-06-22 16:10:06.040 [info] CreateEnv Trigger - Workspace not found for /home/sara/Desktop/python/tt.py
+2026-06-22 16:15:02.376 [error] Unable to find workspace for given file
+2026-06-22 16:18:05.300 [error] Unable to find workspace for given file
+2026-06-22 16:20:21.599 [error] Unable to find workspace for given file
+2026-06-22 16:21:36.723 [error] Unable to find workspace for given file
+2026-06-22 16:23:22.931 [error] Unable to find workspace for given file
+2026-06-22 16:25:55.514 [error] Unable to find workspace for given file
+2026-06-22 16:27:23.705 [error] Unable to find workspace for given file
+2026-06-22 16:29:40.510 [error] Unable to find workspace for given file
+2026-06-22 16:30:50.510 [error] Unable to find workspace for given file
+2026-06-22 16:31:20.226 [error] Unable to find workspace for given file
+2026-06-22 16:31:53.313 [error] Unable to find workspace for given file
+2026-06-22 16:36:59.474 [error] Unable to find workspace for given file
+2026-06-22 16:37:30.171 [error] Unable to find workspace for given file
+2026-06-22 16:37:43.536 [error] Unable to find workspace for given file
+2026-06-22 16:38:09.478 [error] Unable to find workspace for given file
+2026-06-22 16:38:19.151 [error] Unable to find workspace for given file
+2026-06-22 16:40:12.608 [error] Unable to find workspace for given file
+2026-06-22 16:41:06.057 [error] Unable to find workspace for given file
+2026-06-22 16:41:37.849 [error] Unable to find workspace for given file
+2026-06-22 16:43:23.453 [error] Unable to find workspace for given file
+2026-06-22 16:44:55.880 [error] Unable to find workspace for given file
+2026-06-22 16:46:24.544 [error] Unable to find workspace for given file
+2026-06-22 16:53:14.925 [error] Unable to find workspace for given file
+2026-06-22 16:54:09.640 [error] Unable to find workspace for given file
+2026-06-22 16:54:25.459 [error] Unable to find workspace for given file
+2026-06-22 16:56:01.998 [error] Unable to find workspace for given file
+2026-06-22 17:01:17.998 [error] Unable to find workspace for given file
+2026-06-22 17:01:29.708 [error] Unable to find workspace for given file
+2026-06-22 17:03:57.548 [error] Unable to find workspace for given file

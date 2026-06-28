@@ -1,0 +1,13 @@
+2026-06-22 14:43:49.331 [info] StorageMainService: creating application shared storage
+2026-06-22 14:43:49.349 [info] [shared storage] Creating shared storage database at '/home/sara/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-06-22 14:43:49.350 [info] [shared storage] Initializing fallback application storage (path: /home/sara/.config/Code/User/globalStorage/state.vscdb)
+2026-06-22 14:43:49.499 [info] [shared storage] Fallback application storage initialized with 134 items
+2026-06-22 14:43:49.517 [info] update#setState idle
+2026-06-22 14:44:06.250 [error] #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/fcf604774b9f2674b473065736ee75077e256353?u=none - error undefined net::ERR_SOCKET_NOT_CONNECTED
+2026-06-22 14:44:06.251 [error] update#isLatestVersion(): failed to check for updates
+2026-06-22 14:44:06.252 [error] Error: net::ERR_SOCKET_NOT_CONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:134281)
+    at SimpleURLLoaderWrapper.emit (node:events:509:28)
+2026-06-22 14:44:19.519 [info] update#setState checking for updates
+2026-06-22 14:44:19.953 [info] update#setState idle
+2026-06-22 14:49:27.277 [warning] No ptyHost heartbeat after 6 seconds

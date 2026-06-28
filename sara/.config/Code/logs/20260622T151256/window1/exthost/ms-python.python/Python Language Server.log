@@ -1,0 +1,24 @@
+2026-06-22 15:13:05.439 [info] Client: Pylance client (2026.2.1) started with python extension (2026.4.0)
+2026-06-22 15:13:07.623 [info] (62183): Server root directory: file:///home/sara/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist
+2026-06-22 15:13:07.794 [info] (62183): Pylance language server 2026.2.1 (pyright version 1.1.408, commit 138238b4) starting
+2026-06-22 15:13:07.812 [info] (62183): Starting service instance "projects" for workspace "/home/sara/projects"
+2026-06-22 15:13:09.258 [info] (62183): Loading background bundle file:///home/sara/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist/copilot-background.bundle.js into file:///home/sara/projects...
+2026-06-22 15:13:09.468 [info] (62183): Starting Mcp server id:44624 ...
+2026-06-22 15:13:09.500 [info] (62183): FG(projects): Setting environmentName for service "projects": "3.14.0 (global)"
+2026-06-22 15:13:09.501 [info] (62183): FG(projects): Setting pythonPath for service "projects": "/usr/local/bin/python"
+2026-06-22 15:13:09.502 [info] (62183): FG(projects): No include entries specified; assuming /home/sara/projects
+2026-06-22 15:13:09.503 [info] (62183): FG(projects): Auto-excluding **/node_modules
+2026-06-22 15:13:09.503 [info] (62183): FG(projects): Auto-excluding **/__pycache__
+2026-06-22 15:13:09.503 [info] (62183): FG(projects): Auto-excluding **/.*
+2026-06-22 15:13:09.552 [info] (62183): FG(projects): Assuming Python version 3.14.0.final.0
+2026-06-22 15:13:09.697 [info] (62183): [Editable Installs] Starting dynamic pth file resolution for Python: /usr/local/bin/python
+2026-06-22 15:13:09.723 [info] (62183): [Editable Installs] No sandbox available for Python /usr/local/bin/python. Dynamic pth file resolution requires Python 3.13 or later.
+2026-06-22 15:13:09.747 [info] (62183): FG(projects): No source files found.
+2026-06-22 15:13:09.770 [info] (62183): Settings have not changed. Skipping update.
+2026-06-22 15:13:10.217 [info] (62183): PQ(projects): Priority queue background worker(2) root directory: file:///home/sara/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist
+2026-06-22 15:13:10.218 [info] (62183): PQ(projects): Priority queue background worker(2) started
+2026-06-22 15:13:10.647 [info] (62183): FG(projects): IDX(projects): Indexer background runner(3) root directory: file:///home/sara/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist (index)
+2026-06-22 15:13:10.647 [info] (62183): FG(projects): IDX(projects): Indexing(3) started
+2026-06-22 15:13:11.464 [info] (62183): FG(projects): IDX(projects): scanned(3) 11 files over 1 exec env
+2026-06-22 15:13:11.812 [info] (62183): FG(projects): IDX(projects): indexed(3) 11 files over 1 exec env
+2026-06-22 15:13:11.813 [info] (62183): FG(projects): IDX(projects): Indexing finished(3).

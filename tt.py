@@ -185,7 +185,7 @@ ted.append(led)
 print(ted)
 
 print(ted[4][1])
-#remove
+#remove() remove the first item with the specified value
 x = [2, 3, 5, 6, "sara" , "fdhd" , "hahahahahaha"]
 x.remove("sara")
 print(x)
@@ -198,7 +198,7 @@ print(z)
 z.sort(reverse=False)
 print(z)
 
-#reverse() switch from end
+#reverse()
 c = [12, 3, 5, "g", "f", "ff", 100]
 c.reverse()
 print(c)
@@ -209,7 +209,181 @@ x = [1, 2, 4, 6,]
 x.clear()
 print(x)
 #copy
-a = [5, 7, 8,]
+a = [1, 2, 3,]
 b = a.copy()
+print(a)#main list
+print(b)#copy one
+a.append(4)
 print(a)
+b.append(5)
 print(b)
+#count() return the number of times a specified value appears in the list
+p = [1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 2, 3]
+print(p.count(3))
+#index() return the index of the first element with the specified value
+a = [1, 2, 3, 4, 5, "sara", "nana", "mohammed"]
+print(a.index("nana"))
+print(type(a.index("sara")))
+print(a[5])
+#-------
+#insert() insert an element at a given position
+a= [1, 2, 3, 4, 5, "sara", "nana", "mohammed"]
+a.insert(5, 6)
+print(a)
+a.insert(0, "hola")
+print(a)
+a.insert(-1, "maha")
+print(a)
+# methods part two;
+#union()
+a = {"apple", "banana", "cherry"}
+b = {"a", "b", "c"}
+x = {1, 2, 3}
+print(a.union(b))
+print(a | b)
+print(a.union(x, b))
+#add() add an item to a set, if the item already exists, the add() method does not add it.
+#-----
+a = {1, 3, 2,4, 6}
+a.add(7)
+print(a)
+#pop() remove and return the element at the given index (default last)
+h = [1, 2, 3, 5, 7, "s", "n", "m"]
+print(h.pop(5))
+#new lesson#
+#set{} is a collection which is unordered, unchangeable*, and unindexed. No duplicate members.
+#slicing not done
+mysetone = {"sara", "nana", "bb", 55}
+print(mysetone)
+#------items is unique الحاجه مره واحده
+mysettwo = {"sara", 44, 1,"one", 44}
+print(mysettwo)
+#clear
+a = {1, 2, 3}
+a.clear()
+print(a)
+#union
+z = {"one", "two", "three"}
+a = {1, 2, 3}
+print(z.union(a))
+#discard
+a = {1, 2, 3, 4, 5}
+a.discard(6)
+print(a)
+#remove
+q = {1, 3, 4, 5, 6}
+q.remove(3)
+#pop in set
+c = [1, 2, 4, "true", "r"]
+print(c.pop())
+#update()
+a = {1, 2, "d", "sara"}
+h = {"a", "b", "s"}
+a.update(["sara", 8])
+a.update(h)
+print(a)
+#set methhod p2
+
+#-----add() add an item to a set, if the item already exists, the add() method does not add it.
+#---------#
+#
+##username = input("entrer your name please: ")
+#password = input("entre your passowrd please: ")
+#age = int(input("Enter your age please: "))
+#print("your name is: {} and your password is: {} and your age is: {}".format(username,password,age))
+#------------#
+
+#num = int(input("Enter a number: "))
+#result = num % 2
+#if result == 0:
+   # print("true")
+#else:
+    #print("false")
+    #---------#
+#new problem
+#num = input("enter your age:")
+#driver_license = input("do U have a driver license?")
+#if int(num) >= 22:
+    #if driver_license == "yes":
+       # print("hiered")
+    #else:
+        #print("rejected")
+#else:
+    #print("rejected")
+
+    #--new problem
+#num = input("enter your age:")
+#driver_license = input("do U have a driver license?")
+#recommandition = input("do U have a recommadition?")
+#if int(num) >= 44 and driver_license == "yes" and recommandition == "yes":
+    #print("hiered")
+#else:
+    #print("rejected")
+    #ennnnddd#
+#new problem
+#first_name = input("enter your first name;")
+#last_name = input("enter your last name;")
+#print(first_name +" " + last_name)
+#print("your full name is: {} {}".format(first_name,last_name))
+#-------endddd#
+#new problem$
+#half number
+#num = int(input("enter  number;"))
+#result = num / 2
+#r = int(num / 2)
+#half number = num /2
+#print("the half of the number is: {}".format(result))
+#enddd#
+#new problem
+#spanish_mark = int(input("enter your spanish mark;"))
+#english_mark = int(input("enter your english mark;"))
+#math_mark = int(input("enter your math mark;"))
+#if  spanish_mark >= 80 and english_mark >= 50 and math_mark >= 70:
+    #print("pass")
+#else:
+    #print("failed")
+    #endddd#
+#new problem
+#num = int(input("num one:"))
+#num2 = int(input("num two:"))
+#num3 = int(input("num three:"))
+#print("the sum of the numbers is: {}". format (int(num) + int(num2) + int(num3)))
+# هنا عملت format
+#enddd#
+#new problem لازززم الint()
+#طريقه تانيه اسهل
+#num1 = int(input("num one:"))
+#num2 = int(input("num two:"))
+#num3 = int(input("num three:"))
+#sum = num + num2 + num3
+#print(sum)
+#print("the sum of the numbers is: {}".format(sum))
+#ennd#
+#new problem#
+#3 marks ava----
+mark1 = int(input("enter your first mark: "))
+mark2 = int(input("enter your second mark: "))
+mark3 = int(input("enter your third mark: "))
+averge = (mark1 + mark2 +mark3) //3
+if averge >= 50:
+    print("pass")
+else:
+    print("failed")
+    #ennddd#
+#new problemاول علامتين فقط مهم
+grade1 = (int(input("enter your first grade: ")))
+grade2 = (int(input("enter your second grade: ")))
+grade3 = (int(input("enter your third grade: ")))
+grade4 = (int(input("enter your fourth grade: ")))
+if grade1 >=60 and grade2 >=50:
+    print("pass")
+else:
+    print("failed")
+    #endddd#
+    #new problem     max of the numbers
+num1 = int(input("enter your first number: "))
+num2 = int(input("enter your second number:"))
+print(max(num1, num2))
+#endddd#
+
+

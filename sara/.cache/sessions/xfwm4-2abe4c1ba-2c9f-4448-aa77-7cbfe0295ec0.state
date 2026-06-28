@@ -1,0 +1,24 @@
+[CLIENT] 0x440001c
+  [CLIENT_ID] 2a0233d17-eb44-48be-852c-8e892b61375d
+  [CLIENT_LEADER] 0x4400001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] TOEFL 2026 Reading Practice 2 - YouTube — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (2,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x3e00007
+  [CLIENT_LEADER] 0x3e00001
+  [RES_NAME] xfce4-screenshooter
+  [RES_CLASS] Xfce4-screenshooter
+  [WM_NAME] Screenshot
+  [WM_COMMAND] (1) "xfce4-screenshooter"
+  [GEOMETRY] (651,402,621,302)
+  [GEOMETRY-MAXIMIZED] (651,402,621,302)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0

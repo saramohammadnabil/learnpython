@@ -1,0 +1,65 @@
+[CLIENT] 0x400002f
+  [CLIENT_ID] 2ba79edc0-5830-472b-af57-0d97eb1eddb6
+  [CLIENT_LEADER] 0x4000001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] (301) TOEFL 2026 Reading Practice 5 - YouTube — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (2,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x4000023
+  [CLIENT_ID] 2ba79edc0-5830-472b-af57-0d97eb1eddb6
+  [CLIENT_LEADER] 0x4000001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] شرح دليلك لتعلم الاكسل من الصفر حتى الاحتراف في فيديو واحد! 2018 معتمد - منصة معارف — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (2,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x40001cb
+  [CLIENT_ID] 2ba79edc0-5830-472b-af57-0d97eb1eddb6
+  [CLIENT_LEADER] 0x4000001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] google - Google Search — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x4000061
+  [CLIENT_ID] 2ba79edc0-5830-472b-af57-0d97eb1eddb6
+  [CLIENT_LEADER] 0x4000001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] Computer Essentials — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x4000003
+  [CLIENT_ID] 2ba79edc0-5830-472b-af57-0d97eb1eddb6
+  [CLIENT_LEADER] 0x4000001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] (301) YouTube — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300

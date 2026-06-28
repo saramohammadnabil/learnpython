@@ -1,0 +1,70 @@
+[CLIENT] 0x50001f2
+  [CLIENT_ID] 202fc08ce-f696-4719-a80f-3befa3c114ea
+  [CLIENT_LEADER] 0x5000001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x300
+[CLIENT] 0x1200007
+  [CLIENT_ID] 2569b4a9b-816c-4547-86a5-943afa773308
+  [CLIENT_LEADER] 0x1200001
+  [WINDOW_ROLE] Thunar-1782140914-80286502
+  [RES_NAME] Thunar
+  [RES_CLASS] Thunar
+  [WM_NAME] sara - Thunar
+  [WM_COMMAND] (1) "Thunar"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (640,295,640,480)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x4200004
+  [RES_NAME] antigravity
+  [RES_CLASS] Antigravity
+  [WM_NAME] learnpython - Antigravity
+  [GEOMETRY] (0,0,1920,1034)
+  [GEOMETRY-MAXIMIZED] (0,0,1922,1036)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x5000003
+  [CLIENT_ID] 202fc08ce-f696-4719-a80f-3befa3c114ea
+  [CLIENT_LEADER] 0x5000001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] Google Antigravity Auth Success — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x5000192
+  [CLIENT_ID] 202fc08ce-f696-4719-a80f-3befa3c114ea
+  [CLIENT_LEADER] 0x5000001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x300
+[CLIENT] 0x5200004
+  [RES_NAME] code
+  [RES_CLASS] code
+  [WM_NAME] tt.py - projects - Visual Studio Code
+  [GEOMETRY] (0,0,1920,1034)
+  [GEOMETRY-MAXIMIZED] (0,0,1922,1036)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300

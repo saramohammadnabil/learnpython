@@ -1,0 +1,25 @@
+2026-06-22 15:26:42.094 [info] [LS Main] Starting language server from: /usr/share/antigravity/resources/app/extensions/antigravity/bin/language_server_linux_x64
+2026-06-22 15:26:42.147 [info] [LS Main] Args: --csrf_token c0513cef-ecfb-4ba8-ac20-caf6b73d1d72 --extension_server_port 41867 --extension_server_csrf_token 659e60e2-ff2d-4b99-a9b9-4b35688039da --app_data_dir antigravity --cloud_code_endpoint https://cloudcode-pa.googleapis.com
+2026-06-22 15:26:42.299 [info] [LS Main] Process spawned with PID: 68891
+2026-06-22 15:26:42.491 [error] [LS Main stderr] I0622 15:26:42.460089 68891 server.go:1236] Starting language server process with pid 68891
+I0622 15:26:42.460206 68891 server.go:301] Setting GOMAXPROCS to 4
+I0622 15:26:42.461780 68891 server.go:440] Language server will attempt to listen on host 127.0.0.1
+I0622 15:26:42.462066 68891 server.go:454] Language server listening on random port at 36217 for HTTPS (gRPC)
+I0622 15:26:42.462104 68891 server.go:461] Language server listening on random port at 39709 for HTTP
+
+2026-06-22 15:26:44.919 [error] No LS client info found for local authority
+2026-06-22 15:26:44.924 [error] [LS Main stderr] I0622 15:26:44.924218 68891 server.go:433] Created extension server client at port 41867
+
+2026-06-22 15:26:44.962 [error] [LS Main stderr] I0622 15:26:44.954468 68891 cascade_manager.go:773] Reactive state is disabled
+
+2026-06-22 15:26:44.988 [info] [LS Main] LS started on port 36217
+2026-06-22 15:26:45.000 [error] [LS Main stderr] I0622 15:26:44.996453 68891 server.go:1693] initialized server successfully in 2.536204562s
+
+2026-06-22 15:26:52.254 [error] [LS Main stderr] I0622 15:26:52.253566 68891 http_helpers.go:151] URL: https://cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0x4dcca1143a753ef2
+
+2026-06-22 15:26:53.884 [error] [LS Main stderr] I0622 15:26:53.884095 68891 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x4b9322075bb43d43
+
+2026-06-22 15:26:58.941 [error] [LS Main stderr] I0622 15:26:58.940688 68891 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0xaad9b675743c59af
+
+2026-06-22 15:26:59.824 [error] [LS Main stderr] I0622 15:26:59.824137 68891 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x519e436d68ca0706
+

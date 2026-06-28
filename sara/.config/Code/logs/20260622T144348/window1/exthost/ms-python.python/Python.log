@@ -1,0 +1,8 @@
+2026-06-22 14:43:55.203 [info] Native locator: Refresh started
+2026-06-22 14:43:55.203 [info] Native locator: Refresh finished in 513 ms
+2026-06-22 14:44:07.048 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-06-22 14:44:07.200 [info] > pyenv which python
+2026-06-22 14:44:07.200 [info] cwd: .
+2026-06-22 14:44:07.201 [info] Python interpreter path: /usr/local/bin/python
+2026-06-22 14:44:10.228 [info] Starting Pylance language server.
+2026-06-22 14:44:19.786 [info] CreateEnv Trigger - Workspace not found for /home/sara/Desktop/python/tt.py

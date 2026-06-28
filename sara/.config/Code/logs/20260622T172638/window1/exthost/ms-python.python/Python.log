@@ -1,0 +1,15 @@
+2026-06-22 17:26:44.158 [info] Native locator: Refresh started
+2026-06-22 17:26:44.158 [info] Native locator: Refresh finished in 729 ms
+2026-06-22 17:26:46.758 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-06-22 17:26:47.100 [info] > pyenv which python
+2026-06-22 17:26:47.100 [info] cwd: .
+2026-06-22 17:26:47.102 [info] Python interpreter path: /usr/local/bin/python
+2026-06-22 17:26:51.693 [info] Starting Pylance language server.
+2026-06-22 17:26:53.135 [info] CreateEnv Trigger - Workspace not found for /home/sara/Desktop/python/tt.py
+2026-06-22 17:39:26.942 [error] Unable to find workspace for given file
+2026-06-22 17:45:03.040 [error] Unable to find workspace for given file
+2026-06-22 17:45:18.458 [error] Unable to find workspace for given file
+2026-06-22 17:46:08.421 [error] Unable to find workspace for given file
+2026-06-22 17:46:29.592 [error] Unable to find workspace for given file
+2026-06-22 17:53:32.873 [error] Unable to find workspace for given file
+2026-06-22 17:56:00.975 [error] Unable to find workspace for given file

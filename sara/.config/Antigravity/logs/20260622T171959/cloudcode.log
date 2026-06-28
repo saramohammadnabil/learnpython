@@ -1,0 +1,24 @@
+2026-06-22 17:20:00.160 [error] Failed to set Cloud Code URL on Language Server: Language server client has not been initialized!
+2026-06-22 17:20:01.904 [info] [CloudCode] POST v1internal:loadCodeAssist traceId: b493845bccdd0a82
+2026-06-22 17:20:02.117 [info] [CloudCode] POST v1internal:loadCodeAssist traceId: ef41002ca1291b9
+2026-06-22 17:20:02.609 [info] [CloudCode] POST v1internal:fetchAvailableModels traceId: 125b6292d6d53cb5
+2026-06-22 17:20:03.372 [info] [CloudCode] POST v1internal:onboardUser traceId: f4e41088b4b6170b
+2026-06-22 17:20:04.233 [info] [CloudCode] POST v1internal:loadCodeAssist traceId: ddb4daf1c60b1c34
+2026-06-22 17:20:04.616 [info] [CloudCode] POST v1internal:fetchAvailableModels traceId: 93b7540154d72db
+2026-06-22 17:25:02.025 [info] [CloudCode] POST v1internal:loadCodeAssist traceId: 837ea5b88487ad95
+2026-06-22 17:25:02.419 [info] [CloudCode] POST v1internal:fetchAvailableModels traceId: c38889c8646653f0
+2026-06-22 17:30:01.401 [info] [CloudCode] POST v1internal:loadCodeAssist traceId: 8254f3e72d3e1945
+2026-06-22 17:30:01.688 [info] [CloudCode] POST v1internal:fetchAvailableModels traceId: 749ff98967703e32
+2026-06-22 17:35:01.621 [error] Failed to make POST request: We can't connect to Gemini Code Assist for individuals. Please try again in a few minutes.
+2026-06-22 17:40:01.451 [info] [CloudCode] POST v1internal:loadCodeAssist traceId: 40d2125b40468845
+2026-06-22 17:40:01.705 [info] [CloudCode] POST v1internal:fetchAvailableModels traceId: 890781bca38a6ce0
+2026-06-22 17:45:02.643 [info] [CloudCode] POST v1internal:loadCodeAssist traceId: d55e6c710d34a654
+2026-06-22 17:45:02.977 [info] [CloudCode] POST v1internal:fetchAvailableModels traceId: cb8b1178b3a94d08
+2026-06-22 17:50:02.779 [info] [CloudCode] POST v1internal:loadCodeAssist traceId: 582c2448fa5cb8d0
+2026-06-22 17:50:04.070 [info] [CloudCode] POST v1internal:fetchAvailableModels traceId: 2bf6162bfa68b900
+2026-06-22 17:55:01.255 [info] [CloudCode] POST v1internal:loadCodeAssist traceId: eb21c131c5fabb35
+2026-06-22 17:55:01.834 [info] [CloudCode] POST v1internal:fetchAvailableModels traceId: 38da55d5d46000cc
+2026-06-22 18:00:01.208 [info] [CloudCode] POST v1internal:loadCodeAssist traceId: 87bc7472d7c5bcb
+2026-06-22 18:00:01.495 [info] [CloudCode] POST v1internal:fetchAvailableModels traceId: b0644045a9dee8a9
+2026-06-22 18:05:01.280 [info] [CloudCode] POST v1internal:loadCodeAssist traceId: 209777f5531cd2c6
+2026-06-22 18:05:01.645 [info] [CloudCode] POST v1internal:fetchAvailableModels traceId: e363737649cbcaaf

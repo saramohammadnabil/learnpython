@@ -1,0 +1,26 @@
+[CLIENT] 0x400007a
+  [CLIENT_ID] 2f7025480-7421-4fe2-99a0-49cec6e2228f
+  [CLIENT_LEADER] 0x4000001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] (267) Learn Python in Arabic #022 - Lists Methods Part One - YouTube — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (13,43,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x4000003
+  [CLIENT_ID] 2f7025480-7421-4fe2-99a0-49cec6e2228f
+  [CLIENT_LEADER] 0x4000001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] (267) TOEFL 2026 Reading Practice 2 - YouTube — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300

@@ -1,0 +1,119 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1001/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/sara/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: line 16: has_option: command not found
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/home/sara/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+/etc/X11/Xsession.d/75dbus_dbus-launch: line 9: has_option: command not found
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: line 9: has_option: command not found
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-xfce:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting LC_ADDRESS=en_US.UTF-8
+dbus-update-activation-environment: setting JAVA_HOME=/usr/lib/jvm/jdk-22-oracle-x64
+dbus-update-activation-environment: setting LC_NAME=en_US.UTF-8
+dbus-update-activation-environment: setting DESKTOP_SESSION=xfce
+dbus-update-activation-environment: setting LC_MONETARY=en_US.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/sara
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=xfce
+dbus-update-activation-environment: setting LOGNAME=sara
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1001/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/sara/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/sara
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/sara
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=XFCE
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=en_US.UTF-8
+dbus-update-activation-environment: setting LIBVIRT_DEFAULT_URI=qemu:///system
+dbus-update-activation-environment: setting USER=sara
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=en_US.UTF-8
+dbus-update-activation-environment: setting LC_MEASUREMENT=en_US.UTF-8
+dbus-update-activation-environment: setting PAPERSIZE=a4
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1001
+dbus-update-activation-environment: setting LC_TIME=en_US.UTF-8
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/home/sara/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/lib/jvm/jdk-22-oracle-x64:bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=xfce
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1001/bus
+dbus-update-activation-environment: setting LC_NUMERIC=en_US.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+/usr/bin/iceauth:  creating new authority file /run/user/1001/ICEauthority
+gpg-agent: a gpg-agent is already running - not starting a new one
+env: ‘/usr/bin/HijriApplet’: No such file or directory
+/usr/bin/xfce-autostart-wm:13: PyGIDeprecationWarning: Using positional arguments with the GObject constructor has been deprecated. Please specify keyword(s) for "schema" or use a class specific constructor. See: https://wiki.gnome.org/PyGObject/InitializerDeprecations
+  settings = Gio.Settings("com.linuxmint.desktop")
+
+(xfce4-session:3416): xfce4-session-WARNING **: 17:23:55.089: Unable to launch "indicator-cpufreq" (specified by autostart/indicator-cpufreq.desktop): Failed to execute child process “indicator-cpufreq” (No such file or directory)
+
+(polkit-gnome-authentication-agent-1:3906): GLib-CRITICAL **: 17:23:55.224: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:3906): polkit-gnome-1-WARNING **: 17:23:55.225: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(xfce4-power-manager:3915): xfce4-power-manager-WARNING **: 17:23:55.391: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:3915): WARNING **: 17:23:55.424: No outputs have backlight property
+
+** (wrapper-2.0:3815): WARNING **: 17:23:55.443: Binding 'XF86AudioLowerVolume' failed!
+
+(wrapper-2.0:3815): pulseaudio-plugin-WARNING **: 17:23:55.443: Could not have grabbed volume control keys. Is another volume control application (xfce4-volumed) running?
+
+(xfce4-power-manager:3915): xfce4-power-manager-WARNING **: 17:23:55.454: It seems the kernel brightness switch handling value was not restored properly on exit last time, xfce4-power-manager will try to restore it this time.
+
+** (wrapper-2.0:3814): WARNING **: 17:23:55.501: No outputs have backlight property
+xfce4-power-manager-Message: 17:23:55.591: Set kernel brightness switch to 0
+blueman-applet 17.23.55 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 17.23.56 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[4619:0623/172408.350408:ERROR:media/gpu/vaapi/vaapi_wrapper.cc:1653] Installed VAAPI version is too old. min supported version: 1.17 installed version: 1.14
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1379: DeprecationWarning: Gdk.threads_init is deprecated
+  Gdk.threads_init()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1764: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:803: DeprecationWarning: Gdk.threads_leave is deprecated
+  Gdk.threads_leave()
+flatpak-update-worker (WARN): cache not valid, refreshing
+
+(xfdesktop:3805): GLib-GIO-CRITICAL **: 17:25:25.962: g_file_get_child: assertion '!g_path_is_absolute (name)' failed
+
+** (xfdesktop:3805): CRITICAL **: 17:25:25.963: xfdesktop_file_utils_transfer_files: assertion 'target_files != NULL && G_IS_FILE(target_files->data)' failed
+
+(xfdesktop:3805): GLib-GObject-CRITICAL **: 17:25:25.963: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+mint-common (WARN): runtime/org.telegram.desktop.webview/x86_64/stable is EOL (This extension is no longer maintained). Replacing with None
+mint-common (WARN): runtime/org.telegram.desktop.webview.Locale/x86_64/stable is EOL (This extension is no longer maintained). Replacing with None
+mint-common (WARN): runtime/org.kde.Platform/x86_64/6.8 is EOL (We strongly recommend moving to the latest stable version of the Platform and SDK). Replacing with None
+mint-common (WARN): runtime/org.kde.Platform/x86_64/5.15-24.08 is EOL (We strongly recommend moving to the latest stable version of the Platform and SDK). Replacing with None
+mint-common (WARN): runtime/org.kde.Platform.Locale/x86_64/6.8 is EOL (We strongly recommend moving to the latest stable version of the Platform and SDK). Replacing with None
+mint-common (WARN): runtime/org.kde.Platform.Locale/x86_64/5.15-24.08 is EOL (We strongly recommend moving to the latest stable version of the Platform and SDK). Replacing with None
+mint-common (WARN): runtime/org.gnome.Platform/x86_64/48 is EOL (The GNOME 48 runtime is no longer supported as of March 24, 2026. Please ask your application developer to migrate to a supported platform.). Replacing with None
+mint-common (WARN): runtime/org.gnome.Platform/x86_64/47 is EOL (The GNOME 47 runtime is no longer supported as of October 15, 2025. Please ask your application developer to migrate to a supported platform.). Replacing with None
+mint-common (WARN): runtime/org.gnome.Platform/x86_64/46 is EOL (The GNOME 46 runtime is no longer supported as of April 17, 2025. Please ask your application developer to migrate to a supported platform.). Replacing with None
+mint-common (WARN): runtime/org.gnome.Platform/x86_64/44 is EOL (The GNOME 44 runtime is no longer supported as of March 20, 2024. Please ask your application developer to migrate to a supported platform.). Replacing with None
+mint-common (WARN): runtime/org.gnome.Platform.Locale/x86_64/48 is EOL (The GNOME 48 runtime is no longer supported as of March 24, 2026. Please ask your application developer to migrate to a supported platform.). Replacing with None
+mint-common (WARN): runtime/org.gnome.Platform.Locale/x86_64/47 is EOL (The GNOME 47 runtime is no longer supported as of October 15, 2025. Please ask your application developer to migrate to a supported platform.). Replacing with None
+mint-common (WARN): runtime/org.freedesktop.Sdk/x86_64/22.08 is EOL (org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.). Replacing with None
+mint-common (WARN): runtime/org.freedesktop.Sdk.Locale/x86_64/22.08 is EOL (org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.). Replacing with None
+mint-common (WARN): runtime/org.freedesktop.Platform/x86_64/23.08 is EOL (org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.). Replacing with None
+mint-common (WARN): runtime/org.freedesktop.Platform/x86_64/22.08 is EOL (org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.). Replacing with None
+mint-common (WARN): runtime/org.freedesktop.Platform.ffmpeg-full/x86_64/23.08 is EOL (org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.). Replacing with None
+mint-common (WARN): runtime/org.freedesktop.Platform.ffmpeg-full/x86_64/22.08 is EOL (org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.). Replacing with None
+mint-common (WARN): runtime/org.freedesktop.Platform.Locale/x86_64/23.08 is EOL (org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.). Replacing with None
+mint-common (WARN): runtime/org.freedesktop.Platform.GL.default/x86_64/23.08-extra is EOL (org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.). Replacing with None
+mint-common (WARN): runtime/org.freedesktop.Platform.GL.default/x86_64/23.08 is EOL (org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.). Replacing with None
+flatpak-update-worker (WARN): fetch error Can't uninstall org.gnome.Platform/x86_64/48 which is needed by io.github.dgsasha.Remembrance/x86_64/stable

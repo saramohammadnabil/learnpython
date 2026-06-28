@@ -1,0 +1,12 @@
+2026-06-23 15:31:52.727 [info] Started local extension host with pid 4270.
+2026-06-23 15:31:53.116 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-06-23 15:31:53.936 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-06-23 15:31:55.235 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-06-23 15:31:58.390 [error] [Extension Host] (node:4270) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-06-23 15:31:59.177 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-06-23 15:31:59.518 [info] [perf] Render performance baseline is 44ms
+2026-06-23 15:32:00.241 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-06-23 15:32:01.100 [warning] [DefaultAccount] Managed settings fetch returned non-success status 404; falling back to local-only policy
+2026-06-23 15:32:06.675 [warning] [DefaultAccount] Managed settings fetch returned non-success status 404; falling back to local-only policy
+2026-06-23 15:33:26.302 [warning] [DefaultAccount] Managed settings fetch returned non-success status 404; falling back to local-only policy

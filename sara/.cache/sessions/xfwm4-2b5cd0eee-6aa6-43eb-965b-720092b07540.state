@@ -1,0 +1,13 @@
+[CLIENT] 0x400002c
+  [CLIENT_ID] 2df19e8ed-d368-4359-8d28-f34ec91eed79
+  [CLIENT_LEADER] 0x4000001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] مشاركة شيء حلو — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1095,549)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300

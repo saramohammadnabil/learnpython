@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Antigravity
+Comment=Experience liftoff
+GenericName=Text Editor
+Exec=/usr/share/antigravity/antigravity %F
+Icon=antigravity
+Type=Application
+StartupNotify=false
+StartupWMClass=Antigravity
+Categories=TextEditor;Development;IDE;
+MimeType=application/x-antigravity-workspace;
+Actions=new-empty-window;
+Keywords=vscode;
+X-XFCE-Source=file:///usr/share/applications/antigravity.desktop
+
+[Desktop Action new-empty-window]
+Name=New Empty Window
+Exec=/usr/share/antigravity/antigravity --new-window %F
+Icon=antigravity

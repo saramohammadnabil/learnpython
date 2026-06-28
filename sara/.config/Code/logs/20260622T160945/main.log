@@ -1,0 +1,7 @@
+2026-06-22 16:09:45.618 [info] StorageMainService: creating application shared storage
+2026-06-22 16:09:45.632 [info] [shared storage] Creating shared storage database at '/home/sara/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-06-22 16:09:45.634 [info] [shared storage] Initializing fallback application storage (path: /home/sara/.config/Code/User/globalStorage/state.vscdb)
+2026-06-22 16:09:45.697 [info] [shared storage] Fallback application storage initialized with 147 items
+2026-06-22 16:09:45.706 [info] update#setState idle
+2026-06-22 16:10:15.707 [info] update#setState checking for updates
+2026-06-22 16:10:15.949 [info] update#setState idle

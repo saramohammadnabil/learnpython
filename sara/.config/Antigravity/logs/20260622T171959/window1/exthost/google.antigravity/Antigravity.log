@@ -1,0 +1,27 @@
+2026-06-22 17:20:06.921 [info] I0622 17:20:06.921475  4295 server.go:1236] Starting language server process with pid 4295
+2026-06-22 17:20:06.922 [info] I0622 17:20:06.921607  4295 server.go:301] Setting GOMAXPROCS to 4
+2026-06-22 17:20:06.923 [info] I0622 17:20:06.922822  4295 server.go:440] Language server will attempt to listen on host 127.0.0.1
+2026-06-22 17:20:06.923 [info] I0622 17:20:06.923097  4295 server.go:454] Language server listening on random port at 39847 for HTTPS (gRPC)
+2026-06-22 17:20:06.923 [info] I0622 17:20:06.923135  4295 server.go:461] Language server listening on random port at 37811 for HTTP
+2026-06-22 17:20:07.527 [info] I0622 17:20:07.527146  4295 server.go:433] Created extension server client at port 40927
+2026-06-22 17:20:07.567 [info] I0622 17:20:07.567254  4295 cascade_manager.go:773] Reactive state is disabled
+2026-06-22 17:20:07.604 [info] (Antigravity) 2026-06-22 17:20:07.602 [INFO]: Language server started
+2026-06-22 17:20:07.636 [info] I0622 17:20:07.623110  4295 server.go:1693] initialized server successfully in 701.471091ms
+2026-06-22 17:20:07.682 [info] (Antigravity) 2026-06-22 17:20:07.682 [INFO]: LS lspClient started successfully
+2026-06-22 17:20:09.471 [info] I0622 17:20:09.470990  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0xefa94471a3bd3ba1
+2026-06-22 17:20:09.831 [info] I0622 17:20:09.831292  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x2d1d572a50c1e4ca
+2026-06-22 17:25:09.577 [info] I0622 17:25:09.575703  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0x2f1033b9f0dbcbc0
+2026-06-22 17:25:10.175 [info] I0622 17:25:10.174930  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x238a7afa76a0be6
+2026-06-22 17:31:08.806 [info] I0622 17:31:08.806263  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x737dc47e4f5f705a
+2026-06-22 17:31:09.614 [info] I0622 17:31:09.614560  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0x106ef1ceea06c283
+2026-06-22 17:37:08.370 [info] I0622 17:37:08.370637  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x99b01ebb062be600
+2026-06-22 17:37:18.149 [info] I0622 17:37:18.149141  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0x5f811363f66e6696
+2026-06-22 17:43:09.077 [info] I0622 17:43:09.077034  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0xee20706c012ec0c9
+2026-06-22 17:43:09.362 [info] I0622 17:43:09.361589  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x89f9fb1eeeb7d2db
+2026-06-22 17:49:08.358 [info] I0622 17:49:08.357937  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x17d954e918573439
+2026-06-22 17:49:09.266 [info] I0622 17:49:09.265470  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0xb2591a5bf2fdf196
+2026-06-22 17:55:08.364 [info] I0622 17:55:08.364563  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x5a378480c1633ce4
+2026-06-22 17:55:09.055 [info] I0622 17:55:09.054824  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0x8897f7304e190ca4
+2026-06-22 18:00:09.179 [info] I0622 18:00:09.179540  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x2a21e5708c467940
+2026-06-22 18:06:08.578 [info] I0622 18:06:08.578235  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0xe588051bfb2ae740
+2026-06-22 18:06:09.323 [info] I0622 18:06:09.323591  4295 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0x823addb05d33bda8

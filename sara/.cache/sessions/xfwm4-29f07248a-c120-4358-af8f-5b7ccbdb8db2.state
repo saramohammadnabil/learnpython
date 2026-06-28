@@ -1,0 +1,12 @@
+[CLIENT] 0x4e00003
+  [CLIENT_LEADER] 0x4e00001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] Google Antigravity Auth Success — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (817,481,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10380

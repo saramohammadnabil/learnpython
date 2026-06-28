@@ -1,0 +1,74 @@
+[CLIENT] 0x5400023
+  [CLIENT_ID] 26683cb68-717c-4b13-8141-36e8d434cfd9
+  [CLIENT_LEADER] 0x5400001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] My Dashboard — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (2,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x3c00004
+  [RES_NAME] code
+  [RES_CLASS] code
+  [WM_NAME] tt.py - projects - Visual Studio Code
+  [GEOMETRY] (0,0,1920,1034)
+  [GEOMETRY-MAXIMIZED] (0,0,1922,1036)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x540002f
+  [CLIENT_ID] 26683cb68-717c-4b13-8141-36e8d434cfd9
+  [CLIENT_LEADER] 0x5400001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] Settings Sync — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (814,478,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x5400003
+  [CLIENT_ID] 26683cb68-717c-4b13-8141-36e8d434cfd9
+  [CLIENT_LEADER] 0x5400001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] Problem loading page — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x5400047
+  [CLIENT_ID] 26683cb68-717c-4b13-8141-36e8d434cfd9
+  [CLIENT_LEADER] 0x5400001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] google - Google Search — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (814,478,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x540003b
+  [CLIENT_ID] 26683cb68-717c-4b13-8141-36e8d434cfd9
+  [CLIENT_LEADER] 0x5400001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] Computer Essentials — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (814,478,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300

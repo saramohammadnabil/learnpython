@@ -1,0 +1,30 @@
+2026-06-22 16:09:50.555 [info] Starting Python Locator /home/sara/.vscode/extensions/ms-python.python-2026.4.0-linux-x64/python-env-tools/bin/pet server
+2026-06-22 16:09:50.555 [info] Discovered env: /usr/bin/python3
+2026-06-22 16:09:50.555 [info] Discovered env: /usr/local/bin/python
+2026-06-22 16:09:50.555 [info] Discovered env: /usr/bin/python3.14
+2026-06-22 16:09:50.555 [info] Refresh completed in 180ms
+2026-06-22 16:09:53.515 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:15:02.073 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:18:05.014 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:20:21.308 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:21:36.452 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:23:22.661 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:25:55.228 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:27:23.422 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:29:40.235 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:30:50.239 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:31:53.045 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:32:59.895 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:36:59.190 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:37:29.888 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:38:09.195 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:40:12.327 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:41:05.774 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:41:37.576 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:43:23.174 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:44:55.601 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:46:24.260 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:53:14.652 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:54:09.369 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 16:56:01.721 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 17:01:17.722 [info] Resolved Python Environment /usr/local/bin/python

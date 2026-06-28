@@ -1,0 +1,44 @@
+[CLIENT] 0x500001c
+  [CLIENT_ID] 272805193-c249-49a9-a151-a20f8b00ed59
+  [CLIENT_LEADER] 0x5000001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] Computer Essentials — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (814,478,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x5200004
+  [RES_NAME] antigravity
+  [RES_CLASS] Antigravity
+  [WM_NAME] learnpython - Antigravity
+  [GEOMETRY] (0,0,1920,1034)
+  [GEOMETRY-MAXIMIZED] (0,0,1922,1036)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x5000003
+  [CLIENT_ID] 272805193-c249-49a9-a151-a20f8b00ed59
+  [CLIENT_LEADER] 0x5000001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] Google Antigravity Auth Success — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x4200004
+  [RES_NAME] code
+  [RES_CLASS] code
+  [WM_NAME] tt.py - projects - Visual Studio Code
+  [GEOMETRY] (0,0,1922,1036)
+  [GEOMETRY-MAXIMIZED] (0,0,1922,1036)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000

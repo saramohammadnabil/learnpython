@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/sara" added="2026-06-13T14:40:45.784865Z" modified="2026-06-13T14:53:39.871589Z" visited="2026-06-13T14:40:45.784867Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-13T14:53:39.871584Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/Pictures" added="2026-06-13T14:40:52.331081Z" modified="2026-06-13T14:40:52.331089Z" visited="2026-06-13T14:40:52.331083Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-13T14:40:52.331085Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/Music" added="2026-06-13T14:40:57.399224Z" modified="2026-06-13T14:40:57.399231Z" visited="2026-06-13T14:40:57.399225Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-13T14:40:57.399227Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/Desktop" added="2026-06-13T14:40:58.596739Z" modified="2026-06-13T14:53:40.338299Z" visited="2026-06-13T14:40:58.596741Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-13T14:53:40.338296Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/Desktop/python" added="2026-06-13T14:41:00.636350Z" modified="2026-06-13T14:53:41.929076Z" visited="2026-06-13T14:41:00.636353Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-13T14:53:41.929070Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/Desktop/python/hello.py" added="2026-06-13T14:41:03.523503Z" modified="2026-06-13T14:41:04.533612Z" visited="2026-06-13T14:41:03.523505Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-13T14:41:03.523507Z" count="1"/>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2026-06-13T14:41:04.533608Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/Desktop/New%20File" added="2026-06-13T14:46:40.752324Z" modified="2026-06-13T14:51:58.985471Z" visited="2026-06-13T14:46:40.752325Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2026-06-13T14:51:58.985468Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/Desktop/python/New%20File" added="2026-06-13T14:52:18.860615Z" modified="2026-06-13T14:52:51.290676Z" visited="2026-06-13T14:52:18.860616Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-13T14:52:50.412869Z" count="2"/>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2026-06-13T14:52:51.290672Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="trash:///" added="2026-06-13T14:53:14.092282Z" modified="2026-06-13T14:53:14.092298Z" visited="2026-06-13T14:53:14.092287Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-13T14:53:14.092290Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/Downloads" added="2026-06-13T14:53:20.017345Z" modified="2026-06-13T14:53:20.017355Z" visited="2026-06-13T14:53:20.017347Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-13T14:53:20.017350Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2026-06-13T14:53:21.005420Z" modified="2026-06-13T14:53:21.005428Z" visited="2026-06-13T14:53:21.005421Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-13T14:53:21.005424Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="computer:///" added="2026-06-13T14:53:38.950459Z" modified="2026-06-13T14:53:38.950466Z" visited="2026-06-13T14:53:38.950460Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-13T14:53:38.950462Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/%E6%A8%A1%E6%9D%BF" added="2026-06-14T15:11:23.112671Z" modified="2026-06-14T15:11:23.112682Z" visited="2026-06-14T15:11:23.112674Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-14T15:11:23.112677Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/basic" added="2026-06-14T15:11:32.577142Z" modified="2026-06-14T15:11:33.365347Z" visited="2026-06-14T15:11:32.577143Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-14T15:11:32.577146Z" count="1"/>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2026-06-14T15:11:33.365345Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/Desktop/python/tt.py" added="2026-06-15T16:03:10.579226Z" modified="2026-06-23T14:25:07.035834Z" visited="2026-06-15T16:03:10.579226Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-06-15T16:03:10.579228Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-23T14:25:06.230577Z" count="1"/>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2026-06-23T14:25:07.035832Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/Documents/APENDER%20ESPANOL%20SARA" added="2026-06-16T16:12:39.238245Z" modified="2026-06-16T16:12:39.238251Z" visited="2026-06-16T16:12:39.238246Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 26.2" exec="&apos;soffice %u&apos;" modified="2026-06-16T16:12:39.238248Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/Documents/APENDER%20ESPANOL%20SARA.odt" added="2026-06-16T16:12:40.057625Z" modified="2026-06-21T12:48:18.977465Z" visited="2026-06-16T16:12:40.057626Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 26.2" exec="&apos;soffice %u&apos;" modified="2026-06-21T12:48:18.977462Z" count="25"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/Documents" added="2026-06-22T12:16:44.440217Z" modified="2026-06-22T12:16:44.440227Z" visited="2026-06-22T12:16:44.440218Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-22T12:16:44.440222Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/Documents/GitHub" added="2026-06-22T12:16:51.705058Z" modified="2026-06-22T12:16:51.705062Z" visited="2026-06-22T12:16:51.705058Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-22T12:16:51.705060Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/Documents/GitHub/learnpython" added="2026-06-22T12:16:54.994796Z" modified="2026-06-22T12:19:34.312149Z" visited="2026-06-22T12:16:54.994796Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-22T12:16:54.994798Z" count="1"/>
+          <bookmark:application name="antigravity" exec="&apos;antigravity %u&apos;" modified="2026-06-22T12:19:34.312145Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sara/Documents/GitHub/learnpython/hello.py" added="2026-06-22T12:17:40.348414Z" modified="2026-06-22T12:17:47.406330Z" visited="2026-06-22T12:17:40.348415Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-06-22T12:17:40.348416Z" count="1"/>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2026-06-22T12:17:47.406327Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

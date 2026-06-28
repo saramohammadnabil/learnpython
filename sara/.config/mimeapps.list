@@ -1,0 +1,7 @@
+[Added Associations]
+text/html=xed.desktop;
+text/plain=firefox.desktop;code.desktop;xed.desktop;org.gnome.gedit.desktop;
+text/x-python=org.gnome.gedit.desktop;
+
+[Default Applications]
+text/plain=xed.desktop

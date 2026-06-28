@@ -1,0 +1,14 @@
+2026-06-23 16:30:56.368 [info] (Antigravity) 2026-06-23 16:30:56.367 [ERROR]: Failed to show status message: LanguageServerClient must be initialized first!
+2026-06-23 16:30:56.370 [info] (Antigravity) 2026-06-23 16:30:56.370 [ERROR]: Failed to show status message: LanguageServerClient must be initialized first!
+2026-06-23 16:30:57.893 [info] I0623 16:30:57.891713 28023 server.go:1236] Starting language server process with pid 28023
+2026-06-23 16:30:57.894 [info] I0623 16:30:57.892117 28023 server.go:301] Setting GOMAXPROCS to 4
+2026-06-23 16:30:57.896 [info] I0623 16:30:57.895436 28023 server.go:440] Language server will attempt to listen on host 127.0.0.1
+2026-06-23 16:30:57.896 [info] I0623 16:30:57.896027 28023 server.go:454] Language server listening on random port at 43987 for HTTPS (gRPC)
+2026-06-23 16:30:57.897 [info] I0623 16:30:57.896150 28023 server.go:461] Language server listening on random port at 33175 for HTTP
+2026-06-23 16:30:58.351 [info] I0623 16:30:58.351341 28023 server.go:433] Created extension server client at port 37017
+2026-06-23 16:30:58.402 [info] I0623 16:30:58.402333 28023 cascade_manager.go:773] Reactive state is disabled
+2026-06-23 16:30:58.452 [info] (Antigravity) 2026-06-23 16:30:58.444 [INFO]: Language server started
+2026-06-23 16:30:58.566 [info] I0623 16:30:58.504533 28023 server.go:1693] initialized server successfully in 612.396391ms
+2026-06-23 16:30:58.653 [info] (Antigravity) 2026-06-23 16:30:58.653 [INFO]: LS lspClient started successfully
+2026-06-23 16:30:59.847 [info] I0623 16:30:59.847176 28023 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0x6d502e034c33a779
+2026-06-23 16:31:00.157 [info] I0623 16:31:00.157375 28023 http_helpers.go:151] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x65be38c98bd6b3fc

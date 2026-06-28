@@ -1,0 +1,22 @@
+[CLIENT] 0x4800004
+  [RES_NAME] code
+  [RES_CLASS] Code
+  [WM_NAME] tt.py - projects - Visual Studio Code
+  [GEOMETRY] (0,0,1920,1034)
+  [GEOMETRY-MAXIMIZED] (0,0,1922,1036)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x4200003
+  [CLIENT_ID] 2a3aebb5c-33f6-48ee-8d9d-808e89f5fee2
+  [CLIENT_LEADER] 0x4200001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1095,549)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x300

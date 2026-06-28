@@ -1,0 +1,35 @@
+[CLIENT] 0x4000003
+  [RES_NAME] code
+  [RES_CLASS] Code
+  [WM_NAME] ● sara.html - projects - Visual Studio Code
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (2,36,1922,1020)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x3e0002c
+  [CLIENT_ID] 210ec1d9d-7aff-4a70-9fc3-4e57968721b4
+  [CLIENT_LEADER] 0x3e00001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] learn korean — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,956,479)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x1200007
+  [CLIENT_ID] 292ba3207-0394-45c0-b7e8-bc7f0add8d2c
+  [CLIENT_LEADER] 0x1200001
+  [WINDOW_ROLE] Thunar-1712434923-1841525974
+  [RES_NAME] Thunar
+  [RES_CLASS] Thunar
+  [WM_NAME] projects - Thunar
+  [WM_COMMAND] (1) "Thunar"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (640,295,640,480)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300

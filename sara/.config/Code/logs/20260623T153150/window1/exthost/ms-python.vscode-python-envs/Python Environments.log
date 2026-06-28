@@ -1,0 +1,63 @@
+2026-06-23 15:31:56.132 [info] Python-envs extension version: 1.36.0
+2026-06-23 15:31:56.132 [info] 
+=== Python Envs Configuration Levels ===
+2026-06-23 15:31:56.132 [info] {
+  "section": "Python Envs Configuration Levels",
+  "defaultEnvManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:venv"
+  },
+  "defaultPackageManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:pip"
+  }
+}
+2026-06-23 15:31:56.132 [info] [pet] Starting Python Locator /home/sara/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/python-env-tools/bin/pet server
+2026-06-23 15:31:56.132 [info] Registering pyenv manager (environments will be discovered lazily)
+2026-06-23 15:31:56.132 [info] Registering pipenv manager (environments will be discovered lazily)
+2026-06-23 15:31:56.132 [info] Registering poetry manager (environments will be discovered lazily)
+2026-06-23 15:31:56.237 [info] [pet] configure: Sending configuration update: {"workspaceDirectories":["/home/sara/projects"],"environmentDirectories":["/home/sara/projects/.venv","/home/sara/projects/*/.venv"],"pipenvExecutable":"pipenv","poetryExecutable":"poetry","cacheDirectory":"/home/sara/.config/Code/User/globalStorage/ms-python.vscode-python-envs/pythonLocator"}
+2026-06-23 15:31:56.266 [info] Discovered env: /usr/local/bin/python
+2026-06-23 15:31:56.327 [info] Discovered env: /usr/bin/python3
+2026-06-23 15:31:56.425 [info] Discovered env: /usr/bin/python3.14
+2026-06-23 15:31:56.460 [info] Conda not found, turning off conda features. [Error: Conda not found
+	at L (/home/sara/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:629081)
+	at runNextTicks (node:internal/process/task_queues:65:5)
+	at process.processImmediate (node:internal/timers:472:9)
+	at async V (/home/sara/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:629206)
+	at async t.registerCondaFeatures (/home/sara/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:648591)
+	at async t.safeRegister (/home/sara/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:290365)
+	at async Promise.all (index 1)
+	at async Immediate.<anonymous> (/home/sara/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:782813)]
+2026-06-23 15:31:56.464 [info] [interpreterSelection] Applying initial environment selection for 1 workspace folder(s)
+2026-06-23 15:31:56.475 [error] [pet] [2m   0.667479425s[0m [31mERROR[0m [2mpet_python_utils::env[0m[2m:[0m Failed to spawn Python to resolve info "/bin/python3.12": No such file or directory (os error 2)
+[2m   0.667530884s[0m [33m WARN[0m [2mpet::resolve[0m[2m:[0m Unknown Python Env "/bin/python3.12"
+[2m   0.667546253s[0m [31mERROR[0m [2mpet::jsonrpc[0m[2m:[0m Failed to resolve env "/bin/python3.12"
+
+2026-06-23 15:31:56.481 [warning] [priorityChain] /home/sara/projects defaultInterpreterPath '/bin/python3.12' unresolvable, falling back to auto-discovery
+2026-06-23 15:31:56.489 [info] [SYS_SET] scope=/home/sara/projects, project=/home/sara/projects, normalizedKey=/home/sara/projects, env=Python 3.14.0.final.0-39lraqbi3bg
+2026-06-23 15:31:59.044 [info] Python API: Changed environment from undefined to Python 3.14.0.final.0 for: /home/sara/projects
+2026-06-23 15:31:59.044 [info] Internal: Changed environment from undefined to Python 3.14.0.final.0 for: /home/sara/projects
+2026-06-23 15:31:59.046 [info] [interpreterSelection] projects: Python 3.14.0.final.0 (source: autoDiscovery)
+2026-06-23 15:31:59.046 [info] [interpreterSelection] Workspace env resolved, deferring global scope to background
+2026-06-23 15:31:59.232 [error] [pet] [2m   3.343830169s[0m [31mERROR[0m [2mpet_python_utils::env[0m[2m:[0m Failed to spawn Python to resolve info "/bin/python3.12": No such file or directory (os error 2)
+[2m   3.343858272s[0m [33m WARN[0m [2mpet::resolve[0m[2m:[0m Unknown Python Env "/bin/python3.12"
+[2m   3.343870035s[0m [31mERROR[0m [2mpet::jsonrpc[0m[2m:[0m Failed to resolve env "/bin/python3.12"
+
+2026-06-23 15:32:00.363 [warning] [priorityChain:global] defaultInterpreterPath '/bin/python3.12' unresolvable, falling back to auto-discovery
+2026-06-23 15:32:01.658 [info] Python API: Changed environment from undefined to Python 3.14.0.final.0 for: global
+2026-06-23 15:32:01.658 [info] Internal: Changed environment from undefined to Python 3.14.0.final.0 for: global
+2026-06-23 15:32:01.658 [info] [interpreterSelection] global: Python 3.14.0.final.0 (source: autoDiscovery)
+2026-06-23 15:32:02.673 [info] Refreshing pyenv environments
+2026-06-23 15:32:02.680 [info] Pipenv not found via settings, cache, or PATH
+2026-06-23 15:32:02.681 [info] Refreshing pipenv environments
+2026-06-23 15:32:02.682 [info] Pipenv not found via settings, cache, or PATH
+2026-06-23 15:32:02.682 [info] Found 0 pipenv environments
+2026-06-23 15:32:02.684 [info] Pipenv not found via settings, cache, or PATH
+2026-06-23 15:32:02.688 [info] Refreshing poetry environments
+2026-06-23 15:32:02.689 [info] Poetry executable not found
+2026-06-23 15:32:02.692 [info] Environment discovery complete: 3 environments found (Global: 3)

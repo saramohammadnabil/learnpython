@@ -1,0 +1,7 @@
+2026-06-22 15:26:53.715 [info] Starting Python Locator /home/sara/.vscode/extensions/ms-python.python-2026.4.0-linux-x64/python-env-tools/bin/pet server
+2026-06-22 15:26:53.715 [info] Discovered env: /usr/bin/python3
+2026-06-22 15:26:53.715 [info] Discovered env: /usr/bin/python3.14
+2026-06-22 15:26:53.715 [info] Discovered env: /usr/local/bin/python
+2026-06-22 15:26:53.715 [info] Refresh completed in 134ms
+2026-06-22 15:26:54.352 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-22 15:27:30.571 [info] Resolved Python Environment /usr/local/bin/python

@@ -1,0 +1,13 @@
+[CLIENT] 0x3c0002c
+  [CLIENT_ID] 28d0993ec-39fe-4bfc-9ccc-ac3564297cc2
+  [CLIENT_LEADER] 0x3c00001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1920,998)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x300

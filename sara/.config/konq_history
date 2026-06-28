@@ -1,0 +1,6 @@
+[History]
+CompletionItems=unused
+
+[Location Bar]
+ComboContents[$e]=https://192.168.1.1
+ComboIconCache[$e]=https://192.168.1.1,text-html

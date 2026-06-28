@@ -1,0 +1,63 @@
+2026-06-22 15:18:30.360 [info] [main] Log level: Info
+2026-06-22 15:18:30.361 [info] [main] Validating found git in: "git"
+2026-06-22 15:18:30.361 [info] [main] Using git "2.34.1" from "git"
+2026-06-22 15:18:30.361 [info] [Model][doInitialScan] Initial repository scan started
+2026-06-22 15:18:30.361 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-06-22 15:19:39.646 [info] [main] Log level: Info
+2026-06-22 15:19:39.646 [info] [main] Validating found git in: "git"
+2026-06-22 15:19:39.646 [info] [main] Using git "2.34.1" from "git"
+2026-06-22 15:19:39.646 [info] [Model][doInitialScan] Initial repository scan started
+2026-06-22 15:19:39.646 [info] > git rev-parse --show-toplevel [4ms]
+2026-06-22 15:19:39.658 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [13ms]
+2026-06-22 15:19:39.689 [info] [Model][openRepository] Opened repository (path): /home/sara/Documents/GitHub/learnpython
+2026-06-22 15:19:39.689 [info] [Model][openRepository] Opened repository (real path): /home/sara/Documents/GitHub/learnpython
+2026-06-22 15:19:39.689 [info] [Model][openRepository] Opened repository (kind): repository
+2026-06-22 15:19:39.698 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-06-22 15:19:40.399 [info] > git config --get commit.template [688ms]
+2026-06-22 15:19:40.616 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [51ms]
+2026-06-22 15:19:40.668 [info] > git status -z -uall [23ms]
+2026-06-22 15:19:40.669 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2026-06-22 15:19:40.728 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2026-06-22 15:19:40.745 [info] > git config --get --local branch.main.vscode-merge-base [4ms]
+2026-06-22 15:19:40.746 [warning] [Git][config] git config failed: Failed to execute git
+2026-06-22 15:19:40.758 [info] > git config --get commit.template [31ms]
+2026-06-22 15:19:40.765 [info] > git reflog main --grep-reflog=branch: Created from *. [8ms]
+2026-06-22 15:19:40.790 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [15ms]
+2026-06-22 15:19:40.800 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2026-06-22 15:19:40.823 [info] > git status -z -uall [12ms]
+2026-06-22 15:19:40.823 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [24ms]
+2026-06-22 15:19:40.836 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [15ms]
+2026-06-22 15:19:40.844 [info] > git config --add --local branch.main.vscode-merge-base origin/main [9ms]
+2026-06-22 15:19:40.859 [info] > git config --get commit.template [3ms]
+2026-06-22 15:19:40.952 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [37ms]
+2026-06-22 15:19:40.958 [info] > git check-ignore -v -z --stdin [34ms]
+2026-06-22 15:19:40.985 [info] > git status -z -uall [15ms]
+2026-06-22 15:19:40.986 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2026-06-22 15:19:41.016 [info] > git merge-base refs/heads/main refs/remotes/origin/main [13ms]
+2026-06-22 15:19:41.031 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% 30080f52ea73448260776adeccc723630bcae379...refs/remotes/origin/main -- [4ms]
+2026-06-22 15:19:41.032 [info] > git merge-base refs/heads/main refs/remotes/origin/main [17ms]
+2026-06-22 15:19:41.043 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% 30080f52ea73448260776adeccc723630bcae379...refs/remotes/origin/main -- [3ms]
+2026-06-22 15:19:46.975 [info] [main] Log level: Info
+2026-06-22 15:19:46.975 [info] [main] Validating found git in: "git"
+2026-06-22 15:19:46.975 [info] [main] Using git "2.34.1" from "git"
+2026-06-22 15:19:46.975 [info] [Model][doInitialScan] Initial repository scan started
+2026-06-22 15:19:46.975 [info] > git rev-parse --show-toplevel [7ms]
+2026-06-22 15:19:46.982 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [9ms]
+2026-06-22 15:19:47.017 [info] [Model][openRepository] Opened repository (path): /home/sara/Documents/GitHub/learnpython
+2026-06-22 15:19:47.017 [info] [Model][openRepository] Opened repository (real path): /home/sara/Documents/GitHub/learnpython
+2026-06-22 15:19:47.017 [info] [Model][openRepository] Opened repository (kind): repository
+2026-06-22 15:19:47.029 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-06-22 15:19:47.737 [info] > git config --get commit.template [694ms]
+2026-06-22 15:19:47.916 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [24ms]
+2026-06-22 15:19:47.951 [info] > git status -z -uall [19ms]
+2026-06-22 15:19:47.987 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [39ms]
+2026-06-22 15:19:48.061 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2026-06-22 15:19:48.081 [info] > git config --get --local branch.main.vscode-merge-base [8ms]
+2026-06-22 15:19:48.095 [info] > git config --get commit.template [35ms]
+2026-06-22 15:19:48.099 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [5ms]
+2026-06-22 15:19:48.129 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2026-06-22 15:19:48.130 [info] > git merge-base refs/heads/main refs/remotes/origin/main [17ms]
+2026-06-22 15:19:48.174 [info] > git status -z -uall [18ms]
+2026-06-22 15:19:48.175 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% 30080f52ea73448260776adeccc723630bcae379...refs/remotes/origin/main -- [33ms]
+2026-06-22 15:19:48.178 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [7ms]
+2026-06-22 15:19:48.259 [info] > git check-ignore -v -z --stdin [3ms]

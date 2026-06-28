@@ -1,0 +1,19 @@
+2026-06-23 15:31:56.132 [info] Starting Python Locator /home/sara/.vscode/extensions/ms-python.python-2026.4.0-linux-x64/python-env-tools/bin/pet server
+2026-06-23 15:31:56.132 [info] Discovered env: /usr/local/bin/python
+2026-06-23 15:31:56.132 [info] Discovered env: /usr/bin/python3
+2026-06-23 15:31:56.132 [info] Discovered env: /usr/bin/python3.14
+2026-06-23 15:31:56.132 [info] Refresh completed in 272ms
+2026-06-23 15:32:00.375 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-23 15:37:32.429 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-23 15:38:46.158 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-23 15:39:35.274 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-23 15:41:31.853 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-23 15:52:02.985 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-23 15:52:41.081 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-23 15:54:31.623 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-23 16:02:47.263 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-23 16:15:05.690 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-23 16:17:39.253 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-23 16:18:18.419 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-23 16:24:25.056 [info] Resolved Python Environment /usr/local/bin/python
+2026-06-23 16:27:06.660 [info] Resolved Python Environment /usr/local/bin/python

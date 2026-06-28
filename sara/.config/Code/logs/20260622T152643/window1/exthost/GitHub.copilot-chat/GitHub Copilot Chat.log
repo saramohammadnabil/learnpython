@@ -1,0 +1,40 @@
+2026-06-22 15:26:53.714 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-06-22 15:26:53.714 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-06-22 15:26:53.714 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-06-22 15:26:53.714 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-06-22 15:26:54.742 [info] Using the Electron fetcher.
+2026-06-22 15:26:55.823 [info] Logged in as saramohammadnabil
+2026-06-22 15:26:57.327 [info] ConversationFeature: Waiting for copilot token or BYOK model to activate conversation feature
+2026-06-22 15:26:57.352 [info] Got Copilot token for saramohammadnabil
+2026-06-22 15:26:57.352 [info] Copilot Chat: 0.53.1, VS Code: 1.125.1
+2026-06-22 15:26:57.425 [info] [context keys] Setting context key: github.copilot-chat.activated
+2026-06-22 15:26:57.431 [info] activationBlocker from 'languageModelAccess' took for 171ms
+2026-06-22 15:26:59.087 [info] [CopilotCLI] OpenTelemetry enabled: exporter=file, source=github.copilot
+2026-06-22 15:26:59.341 [info] [CopilotCLIChatSessionContentProvider] listSessions took 277.31703799999923ms
+2026-06-22 15:26:59.480 [info] Fetched model metadata in 2202ms 34513fb5-63c2-4a5d-aa72-0399d258ab25
+2026-06-22 15:26:59.494 [info] [CopilotCLI] MCP server started. Lock file: /home/sara/.copilot/ide/cd472817-4286-46c4-9a03-9d925a3b5a71.lock
+2026-06-22 15:26:59.494 [info] [CopilotCLI] Server URI: unix:/tmp/mcp-gbVTBU/mcp.sock#%2Fmcp
+2026-06-22 15:26:59.790 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-06-22 15:26:59.791 [info] copilot token sku: free_limited_copilot
+2026-06-22 15:26:59.791 [info] ConversationFeature: Activating contributions
+2026-06-22 15:26:59.791 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-06-22 15:26:59.827 [info] Registering default platform agent...
+2026-06-22 15:26:59.852 [info] BYOK: registered 9 provider(s): ollama, anthropic, gemini, xai, openai, openrouter, azure, customoai, customendpoint
+2026-06-22 15:26:59.852 [info] BYOK: fetching known models list
+2026-06-22 15:26:59.852 [info] activationBlocker from 'conversationFeature' took for 2588ms
+2026-06-22 15:27:00.218 [info] [CopilotCLIChatSessionContentProvider] listSessions took 22.018208000001323ms
+2026-06-22 15:27:00.276 [info] Latest entry: ccreq:latest.copilotmd
+2026-06-22 15:27:00.277 [info] ccreq:5ddbcf98.copilotmd | markdown
+2026-06-22 15:27:00.317 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-06-22 15:27:00.321 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-06-22 15:27:00.328 [error] Failed to create database. Falling back to in-memory db: Error: unable to open database file
+2026-06-22 15:27:00.428 [info] [CopilotCLIChatSessionContentProvider] listSessions took 95.26090199999999ms
+2026-06-22 15:27:00.685 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-06-22 15:27:00.733 [info] Fetched model metadata in 432ms 244d1d5a-1144-4315-ac46-1b2944baceaf
+2026-06-22 15:27:00.857 [info] ccreq:4ee5e179.copilotmd | markdown
+2026-06-22 15:27:00.896 [info] ConversationFeature: BYOK models available
+2026-06-22 15:27:00.896 [info] copilot token sku: free_limited_copilot
+2026-06-22 15:27:10.583 [error] [CopilotCLI] Error fetching copilot user: TypeError: fetch failed
+2026-06-22 15:27:10.583 [error] [CopilotCLIModels] Failed to fetch available models: TypeError: fetch failed
+2026-06-22 15:27:10.584 [error] [CopilotCLI] Error fetching copilot user: TypeError: fetch failed
+2026-06-22 15:27:10.584 [error] [CopilotCLIModels] Failed to fetch available models: TypeError: fetch failed

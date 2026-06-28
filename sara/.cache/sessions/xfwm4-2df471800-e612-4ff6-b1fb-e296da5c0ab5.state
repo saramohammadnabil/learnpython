@@ -1,0 +1,26 @@
+[CLIENT] 0x42000a1
+  [CLIENT_ID] 2955ba1d4-c2ab-4ce6-bffb-2b80530469f4
+  [CLIENT_LEADER] 0x4200001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] TOEFL 2026 Reading Practice 9 — HARD 2nd Module - YouTube — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x420001c
+  [CLIENT_ID] 2955ba1d4-c2ab-4ce6-bffb-2b80530469f4
+  [CLIENT_LEADER] 0x4200001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] Easy Youtube Video Downloader Updated.... — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (2,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300

@@ -1,0 +1,8 @@
+[General]
+Version=201
+ViewPropsTimestamp=2024,2,12,20,47,57.256
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+eDP Window-Maximized 1920x1080=true

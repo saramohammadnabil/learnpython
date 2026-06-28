@@ -1,0 +1,26 @@
+[CLIENT] 0x4400089
+  [CLIENT_ID] 269261cf7-f3f7-44d6-be92-271a04031ac3
+  [CLIENT_LEADER] 0x4400001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] شرح دورة تعلم اساسيات الكمبيوتر من الصفر - الحلقة 3 معتمد - منصة معارف — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x4400003
+  [CLIENT_ID] 269261cf7-f3f7-44d6-be92-271a04031ac3
+  [CLIENT_LEADER] 0x4400001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] (237) TOEFL 2026 Reading Practice 5 - YouTube — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,36,1920,998)
+  [GEOMETRY-MAXIMIZED] (0,36,1103,553)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300

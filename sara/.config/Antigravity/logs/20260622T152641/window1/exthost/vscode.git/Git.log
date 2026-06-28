@@ -1,0 +1,23 @@
+2026-06-22 15:26:49.680 [info] [main] Log level: Info
+2026-06-22 15:26:49.680 [info] [main] Validating found git in: "git"
+2026-06-22 15:26:49.680 [info] [main] Using git "2.34.1" from "git"
+2026-06-22 15:26:49.680 [info] [Model][doInitialScan] Initial repository scan started
+2026-06-22 15:26:49.680 [info] > git rev-parse --show-toplevel [6ms]
+2026-06-22 15:26:49.680 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [16ms]
+2026-06-22 15:26:49.680 [info] [Model][openRepository] Opened repository (path): /home/sara/Documents/GitHub/learnpython
+2026-06-22 15:26:49.680 [info] [Model][openRepository] Opened repository (real path): /home/sara/Documents/GitHub/learnpython
+2026-06-22 15:26:49.680 [info] [Model][openRepository] Opened repository (kind): repository
+2026-06-22 15:26:49.680 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-06-22 15:26:49.680 [info] > git config --get commit.template [104ms]
+2026-06-22 15:26:49.685 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2026-06-22 15:26:49.718 [info] > git status -z -uall [19ms]
+2026-06-22 15:26:49.757 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [42ms]
+2026-06-22 15:26:49.830 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2026-06-22 15:26:49.865 [info] > git config --get --local branch.main.vscode-merge-base [14ms]
+2026-06-22 15:26:49.881 [info] > git config --get commit.template [51ms]
+2026-06-22 15:26:49.899 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [19ms]
+2026-06-22 15:26:49.925 [info] > git merge-base refs/heads/main refs/remotes/origin/main [13ms]
+2026-06-22 15:26:49.936 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2026-06-22 15:26:49.957 [info] > git status -z -uall [12ms]
+2026-06-22 15:26:49.958 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% 30080f52ea73448260776adeccc723630bcae379...refs/remotes/origin/main -- [23ms]
+2026-06-22 15:26:49.959 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]

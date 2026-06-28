@@ -1,0 +1,28 @@
+2026-06-22 15:12:56.763 [info] StorageMainService: creating application shared storage
+2026-06-22 15:12:56.780 [info] [shared storage] Creating shared storage database at '/home/sara/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-06-22 15:12:56.782 [info] [shared storage] Initializing fallback application storage (path: /home/sara/.config/Code/User/globalStorage/state.vscdb)
+2026-06-22 15:12:56.811 [info] [shared storage] Fallback application storage initialized with 145 items
+2026-06-22 15:12:56.827 [info] update#setState idle
+2026-06-22 15:13:02.746 [error] Error: Error while decrypting the ciphertext provided to safeStorage.decryptString.
+    at Bl.decrypt (file:///usr/share/code/resources/app/out/main.js:450:19196)
+    at Object.call (file:///usr/share/code/resources/app/out/main.js:437:5471)
+    at $d.onPromise (file:///usr/share/code/resources/app/out/main.js:435:14372)
+    at $d.onRawMessage (file:///usr/share/code/resources/app/out/main.js:435:13795)
+    at Ba.value (file:///usr/share/code/resources/app/out/main.js:435:13061)
+    at b._deliver (file:///usr/share/code/resources/app/out/main.js:434:3244)
+    at b._deliverQueue (file:///usr/share/code/resources/app/out/main.js:434:3333)
+    at b.fire (file:///usr/share/code/resources/app/out/main.js:434:3667)
+    at Ba.value (file:///usr/share/code/resources/app/out/main.js:432:5943)
+    at b._deliver (file:///usr/share/code/resources/app/out/main.js:434:3244)
+    at b.fire (file:///usr/share/code/resources/app/out/main.js:434:3562)
+    at Ba.value (file:///usr/share/code/resources/app/out/main.js:432:6137)
+    at b._deliver (file:///usr/share/code/resources/app/out/main.js:434:3244)
+    at b.fire (file:///usr/share/code/resources/app/out/main.js:434:3562)
+    at ee (file:///usr/share/code/resources/app/out/main.js:432:9534)
+    at IpcMainImpl.t (file:///usr/share/code/resources/app/out/main.js:440:13369)
+    at IpcMainImpl.emit (node:events:509:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:115331)
+    at Session.emit (node:events:509:28)
+2026-06-22 15:13:26.829 [info] update#setState checking for updates
+2026-06-22 15:13:27.791 [info] update#setState idle
+2026-06-22 15:14:38.178 [info] Extension host with pid 61795 exited with code: 0, signal: unknown.
