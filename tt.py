@@ -279,15 +279,240 @@ print(c.pop())
 #update()
 a = {1, 2, "d", "sara"}
 h = {"a", "b", "s"}
-a.update(["sara", 8])
+a.update(["sara", 8 , 8])
 a.update(h)
 print(a)
 #set methhod p2
+#difference() method returns a set that contains the difference between two or more sets.
+x = {1, 2, 3, 4}
+z = {4, 5, 6, 7}
+print(x)
+print(z.difference(x)) # = print(z-x)
+print(x)
+print("=" *35)
+z = {1, 2, 3, 4}
+x = {4, 5, 6, 7}
+print(x-z)
+print(z-x)
+print(x.difference(z))# = z-x + x-z = print(x-z)
+print("=" *35)
+#difference_update() method removes the items that exist in both sets.
+#intersection() method returns a set that contains the similarity between two or more sets.
+e = {1, 2, 4, "c", "f"}
+w = {7, 8, 1 ,"c", "f"}
+print(e)
+print(e.intersection(w)) #the same as print(e&w) the similar items
+print(w&e)
+print(e)
+print("=" *35)
+#intersection_update() method removes the items that is not present in both sets.
+e.intersection_update(w)
+print(e)
+print("=" *40)
+#symmetric_difference() method returns a set that contains all items from both sets, except items that are present in both sets.
+d = {1, 2, 3, "b", "k"}
+f = {1, 3, 5, 8, "v", "c"}
+print(d)
+print(d.symmetric_difference(f)) #the same as print(d^f) the items that are in either set but not in both
+print(f)
+print(d)
+print("=" *40)
+#symmetric_difference_update() method removes the items that are present in both sets, and inserts the other items.
+s = {1, 2, 3, "b", "k"}
+t = {1, 3, 5, 8, "v", "c"}
+s.symmetric_difference_update(t)
+print(s)
+print("=" *40)
+#dictionary{}
+#dictionaries are used to store data values in key:value pairs.
+#dictionaries are unordered, changeable and do not allow duplicates.
+#dictionariesare written with curly braces, {}, and have keys and values:
+#list not allowed
+#dict have any type of datatype
+#dict key have to be uniqe if has two then will print the last one
+userdict= {
+    "name": "sara",
+    "age": 17,
+    "city": "sahag",
+    "university": "korea university",
+    "country": "egypt",
+    "skills":["python", "english", "korean"],
+    "gpa": 10.5
+}
+#len
+print(len(userdict))
+#print dict  item_>>>>>> []
+#get(),keys(),values()
+print(userdict)
+print(userdict["name"])
+print(userdict["skills"])
+print(userdict.get("country"))
+print(userdict.keys())
+print(userdict.values())
+#two_dimensional dictionary
+progamming_langueges = {
+    "the first": {
+        "name": "python",
+        "level":" beginner"
+    },
+    "the secondone": {
+        "name": "java",
+        "level": "intermediate"
+    },
+     "the third": {
+         "name": "c++",
+         "level": "advanced"
+     }
+}
+#print(progamming_langueges["the secondone"]["level"])
+print(progamming_langueges["the third"]["level"])
+print(progamming_langueges["the secondone"]["level"])
+#len
+print(len(progamming_langueges))
+print(len(progamming_langueges["the first"]))
+print("_" *50)
+#setdefault()
+saradict = {
+   "name": "sara"
+}
+print(saradict)
+print(saradict.setdefault("name", "sara"))
+print(saradict.setdefault("age"))
+print(saradict.setdefault("age", 44))
+print(saradict)
+#popitem
+cieradict = {
+   "name": "ciera",
+   "age": 18
+
+}
+print(cieradict)
+print(cieradict.update({"skills": "learning"}))
+#print(type(cieradict))
+print(cieradict.popitem())
+print(cieradict)
+print(cieradict["name"])
+print("______________________________________________")
+#items
+nanadict = {
+   "name": "nana",
+   "skill": "play"
+}
+allitems = nanadict.items()
+print(nanadict)
+nanadict["age"] = 14
+print(allitems)
+#fromkeys
+a = ("age", "name", "skill")
+b = ("x")
+print(dict.fromkeys(a,b))
+print("_" *50)
+#Boolean
+name  = ""
+print(name.isspace())
+
+print(100 > 200)
+print(100 == 100)
+print("___________________________________________________")
+#bool()
+#True values;
+print(bool("sara"))
+print(bool(13))
+print(bool([1, 2, 4, 5,]))
+print(bool(12.4))
+print(bool(True))
+print("___________________________________________________")
+#false values
+print(bool(0))
+print(bool(""))
+print(bool([]))
+print(bool({}))
+print(bool(False))
+print(bool(None))
+print("__________________________________________________")
+#not;
+#explain:
+
+
+
+
+
+print("______________________________________________")
+#assigment operators:-
+x = 10
+z = 20
+x = x-z #-10
+print(x)
+x -= z #-10
+print(x)
+#
+print("_____________________________________________________-")
+#comparsion operators
+#[==]
+#[!=]
+#[>]
+#[<]
+#[>=]
+#[<=]
+print("____________________________________________")
+#type conversion
+#str()
+x = 3
+print(type(x))
+print(type(str(x)))
+#tuble()
+print(")__________________________________________________")
+z = [1, 2, 3, 4, 5]
+d = {"one": 1, "two": 2, "three": 3}
+s = "sara", "xsed"
+f = {"sss", "dddd"}
+print(tuple(z))
+print(tuple(f))
+print(tuple(s))
+print(tuple(d))
+
+
+
+
+
+
+
 
 #-----add() add an item to a set, if the item already exists, the add() method does not add it.
-#---------#
+#---------#import time
+print("_________________________________________________________________________________-")
+#import time
+#import sys
+#time.sleep(2)
+#lyrics = [
+    #("Wake up in the morning", 0.08),
+    #("Everything's alright", 0.09),
+    #("At the end of the story", 0.10),
+    #("You're holdin' me tight", 0.10),
+    #("I don't need to worry", 0.09),
+    #("am I out of my mind?", 0.10),
+    #("And, oh, it's hard to see you", 0.08),
+    #("", 0.07),  # سطر فاضي
+    #("But I wish you were right here", 0.07),
+    #("Oh, it's hard to leave you", 0.07),
+    #("When I get you everywhere", 0.09),
+    #("All this time I'm thinking", 0.08),
+    #("I'm strong enough to sink it", 0.09),
+    #("Oh, no, I don't need you", 0.08),
+    #("But I miss you, come here", 0.06),
+#]
+
+#def type_writer(text, speed):
+    #for letter in text:
+    #    sys.stdout.write(letter)
+    #    sys.stdout.flush()
+    #    time.sleep(speed)
+    #print()
+
+#for line, speed in lyrics:
+#    type_writer(line, speed)
 #
-##username = input("entrer your name please: ")
+#username = input("entrer your name please: ")
 #password = input("entre your passowrd please: ")
 #age = int(input("Enter your age please: "))
 #print("your name is: {} and your password is: {} and your age is: {}".format(username,password,age))
@@ -361,29 +586,293 @@ print(a)
 #ennd#
 #new problem#
 #3 marks ava----
-mark1 = int(input("enter your first mark: "))
-mark2 = int(input("enter your second mark: "))
-mark3 = int(input("enter your third mark: "))
-averge = (mark1 + mark2 +mark3) //3
-if averge >= 50:
-    print("pass")
-else:
-    print("failed")
+#mark1 = int(input("enter your first mark: "))
+#mark2 = int(input("enter your second mark: "))
+#mark3 = int(input("enter your third mark: "))
+#averge = (mark1 + mark2 +mark3) //3
+#if averge >= 50:
+    #print("pass")
+#else:
+    #print("failed")
     #ennddd#
 #new problemاول علامتين فقط مهم
-grade1 = (int(input("enter your first grade: ")))
-grade2 = (int(input("enter your second grade: ")))
-grade3 = (int(input("enter your third grade: ")))
-grade4 = (int(input("enter your fourth grade: ")))
-if grade1 >=60 and grade2 >=50:
-    print("pass")
-else:
-    print("failed")
+#grade1 = (int(input("enter your first grade: ")))
+#grade2 = (int(input("enter your second grade: ")))
+#grade3 = (int(input("enter your third grade: ")))
+#grade4 = (int(input("enter your fourth grade: ")))
+#if grade1 >=60 and grade2 >=50:
+    #print("pass")
+#else:
+    #print("failed")
     #endddd#
     #new problem     max of the numbers
-num1 = int(input("enter your first number: "))
-num2 = int(input("enter your second number:"))
-print(max(num1, num2))
+#num1 = int(input("enter your first number: "))
+#num2 = int(input("enter your second number:"))
+#print(max(num1, num2))
 #endddd# 
+#new problem swap num
+#num1 = int(input("enter your first num"))
+#num2 = int(input("enter your second num"))
+#num3 = int(input("enter your thired num"))
+#print(num1)
+#print(num2)
+#print(num3)
+#temp = num1
+#num1 = num2
+#num2 = temp
+#num2 = num3
+#num3 = temp
 
+#print(num1)
+#print(num2)
+#another method
+#num1 = int(input("enter your first num"))
+#num2 = int(input("enter your second num"))
+#num3 = int(input("enter your thired num"))
+#print(num1, num2 ,num3)
+#num1, num2, num3 = num3, num2, num1
+#print(num1, num2, num3)
+#neww proooobllleem
+#x = int(input("enter the length"))
+#y = int(input(" enter the width"))
+#area = x*y
+#print(f"the erea is {area}")
+#enddd#
+#import math
+#a = int(input("enter the width "))
+#d = int(input("enter the diameter"))
+#area = a*math.sqrt(d*d-a*a)
+#print(area)
+#wdedddd
+#new problem
+#a = int(input("enter the length of the base"))
+#h = int(input("enter the hight"))
+#area = 1/2*a*h
+#print(f"the area of the tringle is {area}")
+#neww problem18 circle area
+import math
+#r = int(input("enter the radius"))
+#area =math.pi*r*r
+#print(f"the area of the circle is {area}")
+#end
+#new problem19
+# = int(input("enter the diameter"))
+#area = math.pi*D*D//4
+#print("the area of the circle:" , area)
+#end
+#20
+#area of the circle inscribed in a square
+#A = int(input("enter the area of the square: "))
+#area = A*math.pi*(A*A)//4
+#print("the area of the circle:",  area)
+#end
+#side = int(input("enter the side of the square: "))
+#square_area = side*side
+#r = side//2
+#area = math.pi*r*r
+#print("the area of the square is:", square_area, "and the area of the circle is:", area)
+#print("the area of the circle is:", area )
+#print("the area of the square is:", square_area)
+#end 10/10***
+#new problem21
+#import math
+#circumferance = int(input("enter the circumferance of the circle: "))
+#radius = circumferance / (2*math.pi)
+#area = math.pi*radius*radius
+#print("the area of the circle is:", area)
+#print("the circumference of the circle is:", circumferance)
+#end other way 
 
+#circumferance = int(input("enter the circumferance of the circle: "))
+#area = circumferance*circumferance/ (4*math.pi)
+#print("the area of the circle is:", area)
+#print("the circumference of the circle is:", circumferance)
+#end 
+#problem22
+#area inscribed in an isosceles triangle
+#a = int(input("enter the side of the triangle:"))
+#b = int(input("enter the base of the triangle:"))
+#pi = 3.14
+#area = (pi*b*b/4)*((2*a-b)/(2*a+b))
+#triangle_area = (b*math.sqrt(a*a-b*b/4))/2
+#print("the area of the circle id:", area)
+#print("the area of the triangle is:", triangle_area)
+#enddd
+#problem23
+#a = int(input("enter the side of the triangle: "))
+#b = int(input("enter the base of the triangle: "))
+
+#hight = math.sqrt(a*a-b*b/4)# math.sqrt(a**2-b**2/4)
+#pi = 3.14
+#traingle_area = (b*hight)/2
+#s = (a+a+b)/2
+#radius = traingle_area/s
+#circle_area = pi * radius * radius
+#print("the area of the triangle is:", traingle_area)
+#print("the area of the circle is:", circle_area)
+#print(hight)
+#print(radius)
+#print(s)
+#print(traingle_area)
+#triangle_area = (b*math.sqrt(a*a-b*b/4))/2 if no hight
+#end
+#new problem24
+#a = int(input("enter the first side of the tringle: "))
+#b = int(input("enter the second side of THe tringle: "))
+#c = int(input("enter the third side of the tringle: "))
+#pi = 3.14
+#p = (a+b+c)/2
+#T = (a*b*c) / (4*math.sqrt(p*(p-a)*(p-b)*(p-c))) #important formula
+#area = pi*T*T
+#print("the area of the circle is:", area)
+#end
+#validate age beteeen 18 and 60
+#age =int(input(" enter your age: "))
+#if age >=18 and age<=55:
+    #print("you are eligible to work")
+#else: 
+    #print("you are not eligible to work")
+    #end
+while True:
+    age =int(input(" enter your age: "))
+
+    if age >=18 and age<=55:
+       print("you are eligible to work")
+       break
+    else: 
+       print("you are not eligible to work")
+       #end
+#print num from 1 to N
+#N = int(input("enter a num: "))
+#x = 0
+#while True:
+      #x = x+1
+      #print(x)
+      #if x == N:
+        #break
+      #another way to solve
+#N = int(input("enter N:   "))
+#x = 0
+#while x < N:
+      #x = x+1
+      #print(x)
+#end
+#new problemmmm25
+#N = int(input("enter N : "))
+#counter = N+1
+#while True: 
+ #   counter = counter - 1
+ #   print(counter)
+
+ #   if counter == 1:
+  #      break
+#new problem 26
+#sum odd nums from 1 to N
+#N = int(input("enter N : "))
+#counter = 0
+#total = 0
+#while True:
+    #counter = counter + 1
+    #if counter % 2 != 0:# odd # if counter % 2 == 1
+         #total = total + counter
+    #if counter == N:
+        #break
+#print(total)#new one 27
+#N = int(input("enter N2 ;"))
+#counter = 0
+#total = 0
+#while True:  # or while counter < N
+#     counter = counter +1
+#     if counter % 2 == 0: # if counter % 2 != 1
+#         total = total + counter 
+#     if counter == N: # no  use if 684 exist
+#         break  # no too
+#print(total)
+#new one 28
+# factorial num
+N = int(input("enter N ''' "))
+while  N <= 0:
+  N = int(input("enter again; "))
+counter = 1 + N 
+factorial = 1
+while True:
+   counter = counter - 1
+   factorial = counter * factorial
+   if counter == 1:
+      break
+print(factorial) #****
+#end
+#new ***** prrrrraaavvvOOOOO
+N = int(input("enter N :"))
+M = N**2,N**3,N**4
+#print(M)
+print(f"square is:{N**2}, cube is:{N**3}, power is:{N**4}")
+#print(N**2)         
+#print(N**3)
+#print(N**4)
+ #_________________________________________
+#power**M
+N = int(input("enter N/ "))
+M = int(input("enter M;"))
+p = N**M
+print(p)
+#another way to solve
+N = int(input("enter N/ "))
+M = int(input("enter M;"))
+P = 1
+counter = 0
+while counter < M:
+ P = P * N 
+ counter +=1
+print(P)
+#end_______________________________________
+#G = int(input("enter Grade : "))
+#if G >90 and G <= 100:
+    #print("Grade is A")
+#elif G >=80 and G <= 89:
+    #print("Grade is B")
+#elif G >=70 and G <= 79:
+    #print("Grade is C")
+#elif G >=60 and G <= 69:
+    #print("Grade is D")
+#elif G >=50 and G <= 59:
+    #print("Grade is E")
+#else:
+    #print("Grade is F")
+    #________________________________________________
+    #another problem
+#X = int(input("enter X: "))
+#Z = int(input("enter Z: "))
+#counter = 1
+#while True:
+    #counter = 1
+   # while counter <=Z:
+      # print(f"{X}^{counter} = {X**counter}")
+      # counter = counter +1
+     #  if counter > Z:
+     #       break
+       #_______________________
+#new promlem
+T = int(input("enter totalsales: "))
+if T > 1000000:
+   print("bounse is 1% of the total sales")
+elif T > 5000000 and T <=1000000:
+   print("bounse is 2% of the totalsales: ")  
+elif T > 100000 and T <= 500000:
+    print("bounse is 3% of the totalsales: ")
+elif T > 50000 and T <= 100000:
+    print("bounse is 4% of the totalsales: ")
+else:
+    print("bounse is 0% of the totalsales: ")
+#---------------------------------------------
+#piggy bank calculator
+P = int(input("enter the nums of pennies : "))
+N = int(input("enter the nums of the nickles : "))
+D = int(input("enter the nums of the Dimes : "))
+D2 = int(input("enter the nums of the dollars : "))
+Q = int(input("enter the nums of the Quarters : "))
+total_cents = P + N * 5 + D * 10 + D2 * 100 + Q * 25
+print(f"the total amount of the monney in the piggy bank is : {total_cents}    cents")
+#__________________neewwwww onnneee 
+
+ 

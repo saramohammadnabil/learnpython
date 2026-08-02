@@ -1,0 +1,35 @@
+#poeer of a num calculater
+X = int(input("enter X: "))
+Z = int(input("enter Z: "))
+counter = 1
+while True:
+    #while counter <= Z:
+       print(f"{X}^{counter} = {X**counter}")
+       counter = counter +1
+       if counter > Z:
+            break
+       #___________________________________________
+       #totalseles bounse calculator:
+T = int(input("enter totalsales: "))
+if T > 1000000:
+   print("bounse is 1% of the total sales")
+elif T > 5000000 and T <=1000000:
+   print("bounse is 2% of the totalsales: ")  
+elif T > 100000 and T <= 500000:
+    print("bounse is 3% of the totalsales: ")
+elif T > 50000 and T <= 100000:
+    print("bounse is 4% of the totalsales: ")
+else:
+    print("bounse is 0% of the totalsales: ")
+#---------------------------------------------
+#piggy bank calculator
+P = int(input("enter the nums of pennies : "))
+N = int(input("enter the nums of the nickles : "))
+D = int(input("enter the nums of the Dimes : "))
+D2 = int(input("enter the nums of the dollars : "))
+Q = int(input("enter the nums of the Quarters : "))
+total_cents = P + N * 5 + D * 10 + D2 * 100 + Q * 25
+print(f"the total amount of the monney in the piggy bank is : {total_cents}    cents")
+#dooonnne    __________________
+
+ 
