@@ -470,11 +470,70 @@ print(tuple(z))
 print(tuple(f))
 print(tuple(s))
 print(tuple(d))
+print("______________________________________________-;")
+# type conversion# String -> List
+text = "Sara" "vava"
+print(list(text))
+# ['S', 'a', 'r', 'a']
 
+# Tuple -> List
+t = (1, 2, 3)
+print(list(t))
 
+# Set -> List
+s = {1, 2, 3}
+print(list(s))
 
+# Dictionary -> List (المفاتيح فقط)
+d = {"name": "Sara", "age": 17}
+print(list(d))
 
+# Dictionary Values -> List
+print(list(d.values()))
 
+# Dictionary Items -> List
+print(list(d.items()))
+print("________________________________________________")
+# List -> Tuple
+l = [1, 2, 3]
+print(tuple(l))
+
+# String -> Tuple
+print(tuple("Sara"))
+
+# Set -> Tuple
+print(tuple({1, 2, 3}))
+
+# Dictionary -> Tuple (المفاتيح)
+print(tuple({"a": 1, "b": 2}))
+print("________________________________________________:")
+# List -> Set
+l = [1, 2, 2, 3, 3]
+print(set(l))
+# {1, 2, 3}
+
+# Tuple -> Set
+print(set((1, 2, 3)))
+
+# String -> Set
+print(set("banana"))
+# {'b', 'a', 'n'}
+
+# Dictionary -> Set (المفاتيح)
+print(set({"a": 1, "b": 2}))
+print("________________________________________________:")
+# List of Tuples -> Dictionary
+l = [("name", "Sara"), ("age", 17)]
+print(dict(l))
+
+# Tuple of Tuples -> Dictionary
+t = (("x", 10), ("y", 20))
+print(dict(t))
+
+# Set of Tuples -> Dictionary
+s = {("a", 1), ("b", 2)}
+print(dict(s))
+#----------------------------
 
 
 
