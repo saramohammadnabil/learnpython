@@ -533,8 +533,18 @@ print(dict(t))
 # Set of Tuples -> Dictionary
 s = {("a", 1), ("b", 2)}
 print(dict(s))
-#----------------------------
+print("________________________________________________:")
 
+#----------------------------
+Name = input("enter your name: ")
+sName = (input("enter your sNAme : "))
+family = input("enter your family name: ")
+
+Name = Name.strip().capitalize()
+sName = sName.strip().capitalize()
+family = family.strip().capitalize()
+
+print(f"hallo {Name} {sName:.1s} {family} happy to see you!")
 
 
 #-----add() add an item to a set, if the item already exists, the add() method does not add it.
@@ -933,5 +943,19 @@ Q = int(input("enter the nums of the Quarters : "))
 total_cents = P + N * 5 + D * 10 + D2 * 100 + Q * 25
 print(f"the total amount of the monney in the piggy bank is : {total_cents}    cents")
 #__________________neewwwww onnneee 
-
- 
+#new problem:
+#counter = 0 as i want
+N = int(input("enter  num : "))
+counter = 0
+while N != 99:
+  counter = counter + N
+  N = int(input("enter  num : "))
+print(f"the sum of the numbers is : {counter}")
+#new one 
+W = int(input("enter a num : "))
+counter = 0
+while W != 0:
+   counter = counter + 1
+   W = int(input("enter a num : "))
+print(f"the count of the numbers is : {counter}")
+#end for today*****
