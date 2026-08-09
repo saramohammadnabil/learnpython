@@ -536,20 +536,15 @@ print(dict(s))
 print("________________________________________________:")
 
 #----------------------------
-Name = input("enter your name: ")
-sName = (input("enter your sNAme : "))
-family = input("enter your family name: ")
-
-Name = Name.strip().capitalize()
-sName = sName.strip().capitalize()
-family = family.strip().capitalize()
-
-print(f"hallo {Name} {sName:.1s} {family} happy to see you!")
-
-
-#-----add() add an item to a set, if the item already exists, the add() method does not add it.
-#---------#import time
-print("_________________________________________________________________________________-")
+#practical slice email
+#Name = input("enter your name : ")
+#email = input("enter your email : ")
+#age = int(input("enter your age :"))
+#password = input("enter your password : ")
+#if len(password) >= 8 and any(c.isupper() for c in password) and any(c.islower() for c in password) and any(c.isdigit() for c in password):
+  #  print(f"Hello {Name} your email is;{email} and your age is:{age} and your passord is:{password}")
+#else:
+ #   print("ypur password is not valid, it must be followed by the following rules: \n1- it must be at least 8 characters long. \n2- it must contain at least one uppercase letter. \n3- it must contain at least one lowercase letter. \n4- it must contain at least one digit.")
 #import time
 #import sys
 #time.sleep(2)
@@ -886,14 +881,14 @@ M = int(input("enter M;"))
 p = N**M
 print(p)
 #another way to solve
-N = int(input("enter N/ "))
-M = int(input("enter M;"))
-P = 1
-counter = 0
-while counter < M:
- P = P * N 
- counter +=1
-print(P)
+#N = int(input("enter N/ "))
+#M = int(input("enter M;"))
+#P = 1
+#counter = 0
+#while counter < M:
+ #P = P * N 
+# counter +=1
+#print(P)
 #end_______________________________________
 #G = int(input("enter Grade : "))
 #if G >90 and G <= 100:
@@ -935,13 +930,13 @@ else:
     print("bounse is 0% of the totalsales: ")
 #---------------------------------------------
 #piggy bank calculator
-P = int(input("enter the nums of pennies : "))
-N = int(input("enter the nums of the nickles : "))
-D = int(input("enter the nums of the Dimes : "))
-D2 = int(input("enter the nums of the dollars : "))
-Q = int(input("enter the nums of the Quarters : "))
-total_cents = P + N * 5 + D * 10 + D2 * 100 + Q * 25
-print(f"the total amount of the monney in the piggy bank is : {total_cents}    cents")
+#P = int(input("enter the nums of pennies : "))
+#N = int(input("enter the nums of the nickles : "))
+#D = int(input("enter the nums of the Dimes : "))
+#D2 = int(input("enter the nums of the dollars : "))
+#Q = int(input("enter the nums of the Quarters : "))
+#total_cents = P + N * 5 + D * 10 + D2 * 100 + Q * 25
+#print(f"the total amount of the monney in the piggy bank is : {total_cents}    cents")
 #__________________neewwwww onnneee 
 #new problem:
 #counter = 0 as i want
@@ -959,3 +954,22 @@ while W != 0:
    W = int(input("enter a num : "))
 print(f"the count of the numbers is : {counter}")
 #end for today*****
+#new problem 38
+#prime number 
+import math
+V = int(input("enter a num : "))
+if V <= 1:
+    print(f"{V} is not a prime number")
+else:
+   counter = 2
+   while counter <V:
+        if V % counter == 0:
+             print(f"{V} is not a prime number")
+             break
+        counter = counter +1
+   else:
+        print(f"{V} is a prime number")
+        # done
+         
+      
+    
