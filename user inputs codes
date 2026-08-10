@@ -25,6 +25,20 @@ while True:
 #-----add() add an item to a set, if the item already exists, the add() method does not add it.
 #---------#import time
 print("_________________________________________________________________________________-")
+age = int(input("enter your age:"))
+monthes = age * 12
+weeks = monthes * 4
+days = weeks * 365
+hours = days * 24
+mints = hours * 60
+secnds = mints * 60
 
+print ("you lived for : ")
+print(f"{monthes: ,} months")
+print(f"{weeks} weeks")
+print(f"{days} days")
+print(f"{hours}  hours")
+print(f"{mints} minents")
+print(f"{secnds} seconds")
 
 

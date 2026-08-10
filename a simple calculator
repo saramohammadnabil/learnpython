@@ -2,7 +2,7 @@ import math
 num1 = int(input("enter a number: "))
 num2 = int(input("enter another number: "))
 operation = input("enter an operation :")#(+, -, *, /, **) choosen
-print (f"the result of {num1} {operation} {num2} is: ", end="")
+print(f"the result of {num1} {operation} {num2} is: ", end="")
 if operation == "+":
     print(num1 +num2)
 elif operation == "-":
@@ -13,5 +13,30 @@ elif operation == "/":
     print(num1/num2)
 elif operation == "**":
     print(num1**num2)
+elif operation == "%":
+    print(num1%num2)
 else:
     print("invalid operation")
+
+
+
+
+    # cashpaid - total pay
+while True:
+ Total_bill = int(input("enter the total bill: "))
+ cash_paid = int(input("enter the cash paid; "))
+ if cash_paid > Total_bill:
+        change = cash_paid - Total_bill
+        print(f"the change is: {change}")
+        break
+ elif cash_paid == Total_bill:
+        print("no change")
+        break
+ else:
+    print("the cash paid is less than the total bill, please insert more money.")
+    cash_paid = int(input(" please enter the cash paid; "))
+    if cash_paid > Total_bill:
+         change = cash_paid -Total_bill
+         print(f"change is ; {change}")
+    break
+
