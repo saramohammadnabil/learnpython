@@ -8,7 +8,7 @@ family = family.strip().capitalize()
 
 print(f"hallo {Name} {sName:.1s} {family} happy to see you!")
 print("_____________________________________________:") 
-while True:
+while True:   # we can use while for just password
     Name = input("enter your name : ")
     email = input("enter your email : ")
     age = int(input("enter your age :"))
@@ -21,9 +21,6 @@ while True:
     password = input("try again enter your password : ")
     print(f"Hello {Name} your email is;{email} and your age is:{age} and your passord is:{password}")
     break
-
-#-----add() add an item to a set, if the item already exists, the add() method does not add it.
-#---------#import time
 print("_________________________________________________________________________________-")
 age = int(input("enter your age:"))
 monthes = age * 12
@@ -40,5 +37,30 @@ print(f"{days} days")
 print(f"{hours}  hours")
 print(f"{mints} minents")
 print(f"{secnds} seconds")
+print("_____________________________________________:")
+
+
+
+#user info calculate %
+Uname = input("enter your name :")
+Ucountry = input("enter your country:")
+Cname = input("enter course name; ")
+if Cname == "paython":
+ price = 150
+ print("the course price is : 150$")
+elif Cname == "C++":
+ price = 100
+ print("the course price is : 100")
+else :
+  print("this course not yet exist plese try later  ")
+  exit()
+ 
+if Ucountry == 'egypt':
+   print(f"hello {Uname} because you are from {Ucountry}")
+   print(f"the course {Cname} price is : ${price-50}")
+else :
+   print(f"Hello{Uname} your country name is ;{Ucountry} so")
+   print(f"the course {Cname} price is ${price-10}")
+print("thanks")
 
 
