@@ -50,3 +50,11 @@ service = bill_value * 10/100
 sales_taxs = (bill_value + service) * 16/100
 Total_bill = bill_value + service + sales_taxs
 print(f"the total bill is; {Total_bill} ")
+
+
+
+#numbers of weeks and days
+numbers = int(input("enter the nums of hours; "))
+week = numbers / 168
+day = numbers / 24
+print(f"the number of weeks = {week} \n the number of days = {day}")

@@ -45,22 +45,29 @@ print("_____________________________________________:")
 Uname = input("enter your name :")
 Ucountry = input("enter your country:")
 Cname = input("enter course name; ")
+occupation = input("enter youy occupation")
 if Cname == "paython":
  price = 150
  print("the course price is : 150$")
+if occupation == "student":
+   print(f"cause you are a student the couare price = ${price-80}")
 elif Cname == "C++":
  price = 100
  print("the course price is : 100")
+ if occupation == "student":
+   print(f"cause you are a student the couare price = ${price-50}")
 else :
   print("this course not yet exist plese try later  ")
   exit()
  
-if Ucountry == 'egypt':
+if Ucountry == 'egypt' and occupation == "student":
    print(f"hello {Uname} because you are from {Ucountry}")
-   print(f"the course {Cname} price is : ${price-50}")
+   print(f"the course {Cname} price is : ${price-90}")
 else :
    print(f"Hello{Uname} your country name is ;{Ucountry} so")
    print(f"the course {Cname} price is ${price-10}")
 print("thanks")
+
+
 
 
