@@ -1,3 +1,18 @@
+days = int(input("enter the num of the days; "))
+hours = int(input("enter the num of the hours; "))
+minutes = int(input("enter the num of the min; "))
+seconds = int(input("enter the num of the seconds; "))
+
+day = days*24*60*60
+hour = hours*60*60
+min = minutes*60
+second = seconds
+
+print(f"the num of the seconds  of sum all ; {day+hour+min+second}")
+
+
+
+
 import math
 num1 = int(input("enter a number: "))
 num2 = int(input("enter another number: "))
@@ -58,3 +73,17 @@ numbers = int(input("enter the nums of hours; "))
 week = numbers / 168
 day = numbers / 24
 print(f"the number of weeks = {week} \n the number of days = {day}")
+
+
+
+days = int(input("enter the num of the days; "))
+hours = int(input("enter the num of the hours; "))
+minutes = int(input("enter the num of the min; "))
+seconds = int(input("enter the num of the seconds; "))
+
+day = days*24*60*60
+hour = hours*60*60
+min = minutes*60
+second = seconds
+
+print(f"the num of the seconds  of sum all ; {day+hours+min+seconds}")

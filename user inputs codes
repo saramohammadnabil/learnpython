@@ -1,3 +1,9 @@
+#ternary conditional operator
+age = 18
+movieRAte = 20
+print("movie is not good for you" if age < movieRAte else "movie is good 4U and happy watching")
+
+###########################
 Name = input("enter your name: ")
 sName = (input("enter your sNAme : "))
 family = input("enter your family name: ")
