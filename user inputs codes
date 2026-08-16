@@ -1,3 +1,23 @@
+countryname = input("enter youy countery ")
+
+countriesonE = ["egypt" ,"KSA", "bahrin"]
+countriesonediscount = 50
+
+countriestwO = ["barline", "USA"]
+countriestwodiscount = 30
+
+if countryname in countriesonE:
+   print(f"Hello  U  have discount to ${countriesonediscount} ")
+
+elif  countryname in countriestwO:
+   print("Hello you have discount to ${countriestwodiscount}")
+else:
+   print("wrong input ")
+
+
+
+
+
 #ternary conditional operator
 age = 18
 movieRAte = 20

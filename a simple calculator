@@ -1,3 +1,40 @@
+
+
+ 
+seconds = int(input("Enter the number of seconds: "))
+days = seconds // 86400
+remaining = seconds % 86400
+
+hours = remaining // 3600
+remaining = remaining % 3600
+
+minutes = remaining // 60
+remaining = remaining % 60
+
+seconds = remaining
+
+print(f"Days = {days}")
+print(f"Hours = {hours}")
+print(f"Minutes = {minutes}")
+print(f"Seconds = {seconds}")
+#need to explain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 days = int(input("enter the num of the days; "))
 hours = int(input("enter the num of the hours; "))
 minutes = int(input("enter the num of the min; "))

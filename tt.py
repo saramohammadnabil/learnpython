@@ -797,14 +797,14 @@ import math
 #else: 
     #print("you are not eligible to work")
     #end
-while True:
-    age =int(input(" enter your age: "))
+#while True:
+ #   age =int(input(" enter your age: "))
 
-    if age >=18 and age<=55:
-       print("you are eligible to work")
-       break
-    else: 
-       print("you are not eligible to work")
+ #   if age >=18 and age<=55:
+  #     print("you are eligible to work")
+ #      break
+  #  else: 
+   #    print("you are not eligible to work")
        #end
 #print num from 1 to N
 #N = int(input("enter a num: "))
@@ -940,19 +940,19 @@ else:
 #__________________neewwwww onnneee 
 #new problem:
 #counter = 0 as i want
-N = int(input("enter  num : "))
-counter = 0
-while N != 99:
-  counter = counter + N
-  N = int(input("enter  num : "))
-print(f"the sum of the numbers is : {counter}")
+#N = int(input("enter  num : "))
+#counter = 0
+#while N != 99:
+  #counter = counter + N
+  #N = int(input("enter  num : "))
+#print(f"the sum of the numbers is : {counter}")
 #new one 
-W = int(input("enter a num : "))
-counter = 0
-while W != 0:
-   counter = counter + 1
-   W = int(input("enter a num : "))
-print(f"the count of the numbers is : {counter}")
+#W = int(input("enter a num : "))
+#counter = 0
+#while W != 0:
+ #  counter = counter + 1
+ #  W = int(input("enter a num : "))
+#print(f"the count of the numbers is : {counter}")
 #end for today*****
 #new problem 38
 #prime number 
@@ -970,6 +970,9 @@ else:
    else:
         print(f"{V} is a prime number")
         # done
-         
+
+
+
+#
       
     

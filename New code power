@@ -1,4 +1,4 @@
-#poeer of a num calculater
+#power of a num calculater
 X = int(input("enter X: "))
 Z = int(input("enter Z: "))
 counter = 1
