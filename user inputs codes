@@ -1,4 +1,29 @@
-countryname = input("enter youy countery ")
+age = int(input("enter your age : "))
+unit = input("please input you time unit "). strip().lower()
+
+monthes = age * 12
+weeks = monthes * 4
+days = weeks * 365
+
+if unit == "months":
+
+   print("you choose the unit months")
+   print(f"you livev for {monthes} months")
+
+elif unit == "days":
+
+   print("you choose the unit days")
+   print(f"you lived for {days} day")
+
+elif unit == "weeks":
+
+   print("you choose unit weeks")
+   print(f"you lived for {weeks} week ")
+
+
+
+
+countryname= input("enter youy countery ")
 
 countriesonE = ["egypt" ,"KSA", "bahrin"]
 countriesonediscount = 50

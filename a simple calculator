@@ -1,6 +1,3 @@
-
-
- 
 seconds = int(input("Enter the number of seconds: "))
 days = seconds // 86400
 remaining = seconds % 86400
@@ -18,18 +15,6 @@ print(f"Hours = {hours}")
 print(f"Minutes = {minutes}")
 print(f"Seconds = {seconds}")
 #need to explain
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

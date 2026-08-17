@@ -1,21 +1,36 @@
+counter = 65
+while counter <= 90:
+ print(chr(counter))
+ counter += 1
+
+
+
+
+
+
+
+
+
 
 day = int(input("enter day ; "))
-
-while day < 1 or day > 7:
- print("wrong day")
- day = int(input("enter again "))
-
- if day == 1:
-  print("  today is satarday ")
- elif day == 2:
-  print("today is sunday")
- elif day == 3:
-  print("today is monday ")
- elif day == 4:
-  print("today is tuesday")
- elif day == 5:
-  print("today is wensday")
- elif day == 6:
-  print("today is thursday")
- elif day == 7:
-  print("today is friday")
+if day == 1:
+ print("day is saturday")
+elif day ==2 :
+ print("day is sanday")
+elif day == 3:
+ print("day is monday")
+elif day ==4:
+ print("day is tuesday")
+elif day ==5:
+ print("day is wensday")
+elif day ==6 :
+ print("day is tharsday ")
+elif day == 7:
+ print("day is friday")
+else:
+  while day < 1 or day > 7:
+   print("wrong day")
+   break
+  day = int(input("enter again "))
+#if day < 1 or day > 7:
+  # print(f"done day is {day} ")
