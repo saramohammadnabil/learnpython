@@ -1,3 +1,61 @@
+#List admin
+admin_list = ["sara", "nana", "malak", "jana"]
+
+#login()
+name = input("type your name ")#.strip().capitalize()
+
+if name in admin_list:
+
+   print(f" Hello {name} you are admin")
+
+   option = input(" delet or update your name ? ")
+
+   print(option)
+   
+   if option == "update" or option == "U":
+
+      thenewname = input("type you new name ")#.strip().capitalize()
+
+      admin_list[admin_list.index(name)] = thenewname
+      #
+
+      print(f"name updated into {thenewname} ")
+
+      print(admin_list)
+   else:
+      option == "delet"
+      admin_list.remove(name)
+      print("name daleted ")
+      print(admin_list)
+
+else:
+
+   print("you are not admin ")
+
+   statue = input("Not admin, add you Y, N ? ").strip().capitalize()
+
+   if statue == "Y" or statue == "Yes":
+
+      print("you have been added ,")
+
+      admin_list.append(name)
+
+      print(admin_list)
+
+   else:
+      print("you are not added ")
+
+
+
+
+
+
+
+
+
+
+
+
 age = int(input("enter your age : "))
 unit = input("please input you time unit "). strip().lower()
 

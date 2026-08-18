@@ -1,3 +1,26 @@
+loan_amount = int(input("enter the loan amount; "))
+Mounthly_payment = int(input("enter the mounth payment; "))
+mounth_len = loan_amount /  Mounthly_payment
+print(mounth_len , "mounths")
+#counter = loan_amount
+#mounths = 0
+#while  counter > 0 :
+    #counter = counter - Mounthly_payment
+    #mounths = mounths + 1
+#print(mounths, "mounths")
+
+
+
+
+
+
+
+
+
+
+
+
+
 seconds = int(input("Enter the number of seconds: "))
 days = seconds // 86400
 remaining = seconds % 86400
