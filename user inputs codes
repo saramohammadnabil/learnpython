@@ -1,3 +1,31 @@
+userpin = 5060
+PIN = int(input("enter your PIN; "))
+if PIN == userpin :
+   print("correct pin")
+   balance = "20$"
+   print(f"your balance is {balance}")
+else:
+   while True:
+      print("wrong pin XXXX")
+      PIN = int(input("try again  "))
+      if PIN == userpin:
+       print("correct PIN")
+       balance = "20$"
+       print(f"your balance  is {balance}")
+       break
+      #ركزي ف المسافات 
+      #***************___________________
+
+
+
+
+
+
+
+
+
+
+
 #List admin
 admin_list = ["sara", "nana", "malak", "jana"]
 
